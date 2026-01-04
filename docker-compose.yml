@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - HEALTHAI_SUPPRESS_WARNINGS=1
+    volumes:
+      - ./:/app:cached
+    command: ["streamlit", "run", "health_care_bot.py", "--server.port", "8501", "--server.address", "0.0.0.0"]
+
+  backend:
+    build: .
+    command: uvicorn backend.app:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app:cached
+    environment:
+      - HEALTHAI_SUPPRESS_WARNINGS=1

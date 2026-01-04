@@ -1,0 +1,1001 @@
+patient_id,clinical_note
+1,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+2,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+3,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+4,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+5,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+6,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+7,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+8,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+9,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+10,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+11,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+12,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+13,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+14,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+15,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+16,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+17,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+18,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+19,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+20,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+21,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+22,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+23,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+24,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+25,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+26,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+27,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+28,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+29,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+30,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+31,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+32,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+33,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+34,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+35,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+36,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+37,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+38,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+39,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+40,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+41,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+42,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+43,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+44,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+45,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+46,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+47,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+48,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+49,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+50,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+51,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+52,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+53,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+54,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+55,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+56,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+57,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+58,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+59,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+60,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+61,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+62,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+63,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+64,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+65,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+66,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+67,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+68,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+69,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+70,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+71,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+72,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+73,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+74,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+75,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+76,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+77,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+78,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+79,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+80,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+81,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+82,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+83,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+84,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+85,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+86,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+87,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+88,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+89,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+90,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+91,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+92,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+93,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+94,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+95,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+96,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+97,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+98,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+99,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+100,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+101,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+102,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+103,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+104,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+105,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+106,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+107,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+108,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+109,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+110,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+111,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+112,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+113,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+114,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+115,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+116,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+117,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+118,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+119,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+120,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+121,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+122,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+123,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+124,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+125,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+126,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+127,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+128,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+129,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+130,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+131,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+132,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+133,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+134,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+135,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+136,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+137,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+138,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+139,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+140,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+141,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+142,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+143,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+144,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+145,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+146,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+147,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+148,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+149,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+150,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+151,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+152,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+153,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+154,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+155,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+156,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+157,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+158,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+159,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+160,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+161,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+162,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+163,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+164,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+165,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+166,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+167,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+168,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+169,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+170,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+171,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+172,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+173,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+174,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+175,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+176,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+177,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+178,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+179,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+180,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+181,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+182,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+183,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+184,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+185,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+186,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+187,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+188,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+189,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+190,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+191,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+192,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+193,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+194,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+195,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+196,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+197,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+198,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+199,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+200,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+201,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+202,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+203,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+204,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+205,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+206,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+207,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+208,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+209,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+210,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+211,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+212,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+213,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+214,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+215,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+216,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+217,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+218,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+219,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+220,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+221,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+222,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+223,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+224,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+225,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+226,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+227,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+228,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+229,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+230,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+231,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+232,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+233,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+234,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+235,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+236,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+237,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+238,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+239,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+240,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+241,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+242,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+243,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+244,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+245,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+246,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+247,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+248,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+249,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+250,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+251,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+252,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+253,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+254,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+255,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+256,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+257,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+258,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+259,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+260,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+261,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+262,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+263,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+264,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+265,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+266,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+267,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+268,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+269,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+270,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+271,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+272,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+273,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+274,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+275,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+276,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+277,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+278,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+279,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+280,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+281,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+282,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+283,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+284,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+285,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+286,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+287,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+288,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+289,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+290,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+291,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+292,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+293,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+294,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+295,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+296,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+297,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+298,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+299,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+300,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+301,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+302,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+303,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+304,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+305,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+306,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+307,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+308,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+309,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+310,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+311,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+312,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+313,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+314,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+315,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+316,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+317,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+318,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+319,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+320,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+321,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+322,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+323,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+324,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+325,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+326,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+327,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+328,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+329,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+330,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+331,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+332,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+333,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+334,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+335,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+336,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+337,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+338,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+339,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+340,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+341,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+342,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+343,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+344,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+345,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+346,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+347,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+348,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+349,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+350,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+351,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+352,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+353,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+354,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+355,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+356,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+357,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+358,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+359,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+360,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+361,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+362,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+363,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+364,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+365,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+366,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+367,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+368,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+369,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+370,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+371,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+372,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+373,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+374,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+375,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+376,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+377,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+378,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+379,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+380,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+381,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+382,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+383,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+384,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+385,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+386,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+387,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+388,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+389,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+390,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+391,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+392,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+393,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+394,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+395,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+396,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+397,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+398,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+399,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+400,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+401,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+402,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+403,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+404,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+405,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+406,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+407,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+408,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+409,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+410,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+411,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+412,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+413,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+414,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+415,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+416,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+417,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+418,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+419,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+420,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+421,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+422,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+423,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+424,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+425,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+426,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+427,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+428,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+429,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+430,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+431,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+432,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+433,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+434,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+435,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+436,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+437,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+438,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+439,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+440,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+441,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+442,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+443,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+444,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+445,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+446,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+447,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+448,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+449,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+450,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+451,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+452,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+453,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+454,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+455,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+456,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+457,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+458,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+459,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+460,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+461,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+462,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+463,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+464,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+465,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+466,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+467,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+468,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+469,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+470,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+471,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+472,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+473,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+474,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+475,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+476,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+477,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+478,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+479,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+480,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+481,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+482,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+483,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+484,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+485,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+486,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+487,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+488,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+489,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+490,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+491,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+492,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+493,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+494,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+495,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+496,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+497,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+498,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+499,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+500,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+501,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+502,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+503,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+504,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+505,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+506,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+507,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+508,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+509,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+510,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+511,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+512,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+513,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+514,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+515,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+516,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+517,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+518,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+519,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+520,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+521,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+522,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+523,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+524,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+525,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+526,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+527,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+528,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+529,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+530,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+531,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+532,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+533,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+534,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+535,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+536,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+537,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+538,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+539,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+540,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+541,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+542,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+543,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+544,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+545,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+546,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+547,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+548,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+549,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+550,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+551,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+552,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+553,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+554,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+555,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+556,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+557,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+558,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+559,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+560,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+561,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+562,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+563,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+564,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+565,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+566,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+567,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+568,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+569,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+570,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+571,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+572,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+573,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+574,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+575,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+576,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+577,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+578,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+579,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+580,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+581,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+582,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+583,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+584,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+585,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+586,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+587,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+588,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+589,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+590,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+591,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+592,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+593,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+594,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+595,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+596,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+597,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+598,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+599,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+600,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+601,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+602,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+603,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+604,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+605,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+606,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+607,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+608,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+609,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+610,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+611,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+612,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+613,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+614,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+615,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+616,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+617,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+618,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+619,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+620,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+621,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+622,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+623,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+624,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+625,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+626,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+627,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+628,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+629,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+630,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+631,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+632,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+633,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+634,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+635,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+636,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+637,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+638,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+639,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+640,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+641,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+642,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+643,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+644,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+645,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+646,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+647,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+648,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+649,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+650,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+651,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+652,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+653,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+654,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+655,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+656,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+657,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+658,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+659,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+660,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+661,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+662,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+663,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+664,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+665,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+666,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+667,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+668,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+669,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+670,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+671,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+672,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+673,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+674,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+675,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+676,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+677,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+678,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+679,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+680,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+681,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+682,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+683,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+684,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+685,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+686,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+687,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+688,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+689,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+690,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+691,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+692,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+693,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+694,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+695,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+696,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+697,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+698,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+699,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+700,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+701,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+702,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+703,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+704,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+705,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+706,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+707,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+708,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+709,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+710,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+711,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+712,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+713,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+714,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+715,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+716,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+717,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+718,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+719,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+720,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+721,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+722,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+723,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+724,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+725,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+726,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+727,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+728,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+729,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+730,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+731,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+732,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+733,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+734,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+735,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+736,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+737,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+738,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+739,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+740,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+741,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+742,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+743,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+744,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+745,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+746,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+747,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+748,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+749,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+750,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+751,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+752,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+753,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+754,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+755,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+756,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+757,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+758,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+759,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+760,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+761,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+762,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+763,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+764,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+765,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+766,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+767,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+768,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+769,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+770,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+771,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+772,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+773,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+774,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+775,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+776,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+777,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+778,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+779,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+780,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+781,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+782,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+783,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+784,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+785,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+786,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+787,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+788,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+789,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+790,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+791,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+792,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+793,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+794,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+795,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+796,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+797,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+798,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+799,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+800,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+801,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+802,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+803,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+804,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+805,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+806,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+807,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+808,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+809,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+810,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+811,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+812,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+813,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+814,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+815,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+816,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+817,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+818,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+819,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+820,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+821,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+822,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+823,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+824,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+825,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+826,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+827,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+828,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+829,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+830,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+831,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+832,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+833,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+834,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+835,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+836,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+837,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+838,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+839,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+840,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+841,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+842,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+843,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+844,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+845,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+846,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+847,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+848,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+849,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+850,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+851,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+852,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+853,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+854,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+855,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+856,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+857,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+858,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+859,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+860,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+861,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+862,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+863,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+864,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+865,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+866,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+867,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+868,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+869,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+870,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+871,Patient reports fever. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+872,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+873,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+874,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+875,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+876,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+877,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+878,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+879,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+880,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+881,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+882,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+883,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+884,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+885,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+886,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+887,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+888,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+889,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+890,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+891,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+892,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+893,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+894,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+895,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+896,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+897,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+898,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+899,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+900,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+901,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+902,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+903,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+904,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+905,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+906,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+907,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+908,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+909,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+910,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+911,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+912,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+913,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+914,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+915,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+916,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+917,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+918,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+919,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+920,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+921,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+922,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+923,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+924,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+925,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+926,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+927,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+928,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+929,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+930,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+931,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+932,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+933,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+934,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+935,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+936,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+937,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+938,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+939,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+940,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+941,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+942,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+943,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+944,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+945,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+946,Patient reports chest pain. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+947,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+948,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+949,Patient reports shortness of breath. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+950,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+951,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+952,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+953,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+954,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+955,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+956,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+957,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+958,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+959,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+960,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+961,Patient reports chest pain. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+962,Patient reports fever. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+963,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+964,Patient reports shortness of breath. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+965,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+966,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+967,Patient reports fever. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+968,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+969,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+970,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+971,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+972,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+973,Patient reports cough. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+974,Patient reports fatigue. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+975,Patient reports fatigue. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+976,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+977,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+978,Patient reports fever. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+979,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+980,Patient reports cough. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+981,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+982,Patient reports shortness of breath. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+983,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+984,Patient reports fatigue. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+985,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+986,Patient reports cough. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+987,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+988,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+989,Patient reports chest pain. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+990,Patient reports shortness of breath. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+991,Patient reports fever. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+992,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+993,Patient reports chest pain. Past medical history includes asthma. Vitals monitored and medication administered. Patient stable.
+994,Patient reports cough. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+995,Patient reports cough. Past medical history includes pneumonia. Vitals monitored and medication administered. Patient stable.
+996,Patient reports shortness of breath. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.
+997,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+998,Patient reports fatigue. Past medical history includes hypertension. Vitals monitored and medication administered. Patient stable.
+999,Patient reports chest pain. Past medical history includes diabetes. Vitals monitored and medication administered. Patient stable.
+1000,Patient reports fatigue. Past medical history includes cardiac condition. Vitals monitored and medication administered. Patient stable.

@@ -1,0 +1,1001 @@
+symptom,patient_question,doctor_reply,language,appointment_needed
+breathing difficulty,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",English,Yes
+nausea,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+nausea,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,English,No
+headache,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+vomiting,How to reduce BP naturally?,Avoid self-medication without advice.,English,No
+nausea,Can I take paracetamol daily?,Please consult a physician and take rest.,Tamil,No
+cough,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,Yes
+diabetes symptoms,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",English,Yes
+fever,Is chest pain serious?,Avoid self-medication without advice.,Telugu,No
+fever,How to control blood sugar?,Avoid self-medication without advice.,Tamil,No
+chest pain,Is chest pain serious?,Please consult a physician and take rest.,Hindi,No
+diabetes symptoms,When should I see a doctor?,Blood tests may be required.,Hindi,No
+breathing difficulty,Is chest pain serious?,Avoid self-medication without advice.,Hindi,Yes
+breathing difficulty,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Telugu,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Telugu,Yes
+vomiting,How to control blood sugar?,Avoid self-medication without advice.,Telugu,Yes
+diabetes symptoms,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Telugu,No
+breathing difficulty,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,English,No
+diabetes symptoms,How to control blood sugar?,Blood tests may be required.,Tamil,No
+nausea,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+high blood pressure,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+high blood pressure,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,No
+breathing difficulty,When should I see a doctor?,Avoid self-medication without advice.,Telugu,Yes
+diabetes symptoms,How to control blood sugar?,Blood tests may be required.,English,No
+diabetes symptoms,"I have fever and cough, what should I do?",Blood tests may be required.,Tamil,No
+chest pain,I feel tired all the time,Avoid self-medication without advice.,Telugu,No
+cough,"I have fever and cough, what should I do?",Blood tests may be required.,English,No
+high blood pressure,Is chest pain serious?,Please consult a physician and take rest.,Tamil,No
+chest pain,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+chest pain,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,Yes
+vomiting,Is chest pain serious?,Avoid self-medication without advice.,Telugu,Yes
+high blood pressure,How to control blood sugar?,Avoid self-medication without advice.,Telugu,Yes
+fever,How to control blood sugar?,Blood tests may be required.,Telugu,Yes
+high blood pressure,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,Is chest pain serious?,Please consult a physician and take rest.,Tamil,Yes
+fever,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,No
+chest pain,When should I see a doctor?,Blood tests may be required.,Telugu,Yes
+breathing difficulty,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+vomiting,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,English,No
+vomiting,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,No
+fatigue,How to reduce BP naturally?,Blood tests may be required.,English,Yes
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,English,No
+headache,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Telugu,No
+cough,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+headache,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Hindi,No
+vomiting,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+fatigue,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+diabetes symptoms,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+nausea,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+high blood pressure,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+headache,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,No
+headache,When should I see a doctor?,Blood tests may be required.,English,No
+chest pain,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Hindi,No
+nausea,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,No
+vomiting,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,No
+breathing difficulty,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+diabetes symptoms,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",English,No
+breathing difficulty,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+vomiting,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+high blood pressure,When should I see a doctor?,Avoid self-medication without advice.,Telugu,Yes
+headache,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Hindi,No
+diabetes symptoms,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+chest pain,I feel tired all the time,Avoid self-medication without advice.,Telugu,No
+fatigue,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,No
+diabetes symptoms,When should I see a doctor?,Avoid self-medication without advice.,English,No
+vomiting,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+diabetes symptoms,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+nausea,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+nausea,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+high blood pressure,Is chest pain serious?,Blood tests may be required.,English,Yes
+diabetes symptoms,Can I take paracetamol daily?,Please consult a physician and take rest.,Hindi,No
+fatigue,Is chest pain serious?,Avoid self-medication without advice.,Tamil,Yes
+chest pain,Is headache dangerous?,Avoid self-medication without advice.,Telugu,No
+cough,How to control blood sugar?,Please consult a physician and take rest.,Telugu,Yes
+cough,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+fever,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fatigue,Is headache dangerous?,Blood tests may be required.,Hindi,Yes
+high blood pressure,Is chest pain serious?,Please consult a physician and take rest.,Hindi,Yes
+high blood pressure,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+vomiting,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Hindi,No
+vomiting,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,Yes
+fever,Is chest pain serious?,Please consult a physician and take rest.,Telugu,Yes
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,Yes
+chest pain,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+headache,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+fever,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,Yes
+breathing difficulty,How to reduce BP naturally?,Avoid self-medication without advice.,English,Yes
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,No
+vomiting,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Tamil,No
+cough,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",English,Yes
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,Yes
+vomiting,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,No
+chest pain,How to control blood sugar?,Blood tests may be required.,Tamil,No
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,English,Yes
+high blood pressure,Is headache dangerous?,Avoid self-medication without advice.,Tamil,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+nausea,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+chest pain,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+cough,"I have fever and cough, what should I do?",Blood tests may be required.,Hindi,Yes
+vomiting,Is chest pain serious?,Avoid self-medication without advice.,Hindi,Yes
+breathing difficulty,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Tamil,No
+cough,I feel tired all the time,Please consult a physician and take rest.,Hindi,Yes
+chest pain,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+fever,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fever,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+chest pain,How to reduce BP naturally?,Avoid self-medication without advice.,English,No
+diabetes symptoms,When should I see a doctor?,Please consult a physician and take rest.,Tamil,No
+headache,Can I take paracetamol daily?,Blood tests may be required.,Hindi,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,English,No
+chest pain,I feel tired all the time,Blood tests may be required.,Telugu,No
+fatigue,Is chest pain serious?,Blood tests may be required.,Hindi,No
+vomiting,Is chest pain serious?,Please consult a physician and take rest.,Telugu,No
+chest pain,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,Yes
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+vomiting,Can I take paracetamol daily?,Please consult a physician and take rest.,Hindi,Yes
+vomiting,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",English,No
+fatigue,Is headache dangerous?,Blood tests may be required.,English,No
+fatigue,Can I take paracetamol daily?,Blood tests may be required.,English,No
+chest pain,Can I take paracetamol daily?,Blood tests may be required.,Tamil,No
+high blood pressure,I feel tired all the time,Avoid self-medication without advice.,Hindi,Yes
+fever,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+diabetes symptoms,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Tamil,No
+fatigue,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+nausea,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+fatigue,Is chest pain serious?,Avoid self-medication without advice.,English,No
+cough,Is headache dangerous?,Please consult a physician and take rest.,Hindi,No
+cough,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Telugu,No
+cough,Can I take paracetamol daily?,Blood tests may be required.,English,Yes
+breathing difficulty,Is chest pain serious?,Avoid self-medication without advice.,Hindi,No
+headache,When should I see a doctor?,Please consult a physician and take rest.,English,No
+nausea,"I have fever and cough, what should I do?",Blood tests may be required.,Hindi,No
+headache,Is chest pain serious?,Please consult a physician and take rest.,Telugu,No
+chest pain,Is headache dangerous?,Please consult a physician and take rest.,Hindi,Yes
+nausea,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+chest pain,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+headache,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,No
+vomiting,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+chest pain,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",English,Yes
+headache,Is chest pain serious?,Avoid self-medication without advice.,English,No
+diabetes symptoms,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,No
+breathing difficulty,How to reduce BP naturally?,Blood tests may be required.,Telugu,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fatigue,Is headache dangerous?,Blood tests may be required.,English,Yes
+headache,Is headache dangerous?,Please consult a physician and take rest.,Hindi,No
+fatigue,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fever,When should I see a doctor?,Please consult a physician and take rest.,Tamil,No
+cough,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+cough,How to control blood sugar?,Blood tests may be required.,Hindi,No
+nausea,Is headache dangerous?,Blood tests may be required.,Tamil,No
+fatigue,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+vomiting,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+high blood pressure,Is headache dangerous?,Blood tests may be required.,English,No
+vomiting,"I have fever and cough, what should I do?",Blood tests may be required.,English,Yes
+fatigue,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,No
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,English,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,Yes
+nausea,How to reduce BP naturally?,Please consult a physician and take rest.,English,No
+cough,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+breathing difficulty,How to control blood sugar?,Blood tests may be required.,Tamil,Yes
+diabetes symptoms,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,Yes
+nausea,Can I take paracetamol daily?,Blood tests may be required.,Telugu,Yes
+cough,"I have fever and cough, what should I do?",Blood tests may be required.,English,Yes
+fatigue,Can I take paracetamol daily?,Blood tests may be required.,Hindi,Yes
+cough,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Hindi,No
+headache,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+cough,When should I see a doctor?,Please consult a physician and take rest.,English,Yes
+nausea,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,No
+fever,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,English,No
+cough,When should I see a doctor?,Blood tests may be required.,Hindi,Yes
+nausea,When should I see a doctor?,Please consult a physician and take rest.,Tamil,No
+headache,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+cough,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+diabetes symptoms,Is headache dangerous?,Please consult a physician and take rest.,Telugu,No
+nausea,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+cough,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+cough,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+fever,When should I see a doctor?,Avoid self-medication without advice.,Tamil,Yes
+fatigue,I feel tired all the time,Please consult a physician and take rest.,English,No
+cough,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+fever,"I have fever and cough, what should I do?",Blood tests may be required.,Tamil,Yes
+vomiting,Can I take paracetamol daily?,Blood tests may be required.,Hindi,No
+breathing difficulty,I feel tired all the time,Avoid self-medication without advice.,Hindi,No
+fatigue,How to control blood sugar?,Avoid self-medication without advice.,Hindi,Yes
+breathing difficulty,How to control blood sugar?,Please consult a physician and take rest.,Hindi,Yes
+fatigue,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+high blood pressure,I feel tired all the time,Avoid self-medication without advice.,Hindi,Yes
+high blood pressure,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,How to control blood sugar?,Please consult a physician and take rest.,Telugu,Yes
+chest pain,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+diabetes symptoms,How to reduce BP naturally?,Blood tests may be required.,Tamil,No
+headache,How to reduce BP naturally?,Blood tests may be required.,Telugu,Yes
+high blood pressure,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Telugu,No
+vomiting,Can I take paracetamol daily?,Avoid self-medication without advice.,English,Yes
+cough,Is headache dangerous?,Please consult a physician and take rest.,English,No
+nausea,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",English,Yes
+headache,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+breathing difficulty,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,Yes
+vomiting,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,No
+breathing difficulty,Can I take paracetamol daily?,Blood tests may be required.,Tamil,No
+fatigue,When should I see a doctor?,Blood tests may be required.,English,No
+headache,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+chest pain,How to reduce BP naturally?,Blood tests may be required.,Telugu,Yes
+fever,Can I take paracetamol daily?,Blood tests may be required.,English,Yes
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+nausea,When should I see a doctor?,Please consult a physician and take rest.,Telugu,No
+headache,How to reduce BP naturally?,Blood tests may be required.,Tamil,No
+cough,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+cough,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+vomiting,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+fatigue,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+fever,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+chest pain,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,No
+cough,How to control blood sugar?,Avoid self-medication without advice.,Hindi,No
+cough,How to control blood sugar?,Blood tests may be required.,Hindi,No
+chest pain,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,Yes
+nausea,I feel tired all the time,Avoid self-medication without advice.,English,Yes
+nausea,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+diabetes symptoms,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+headache,Is chest pain serious?,Please consult a physician and take rest.,Telugu,No
+chest pain,I feel tired all the time,Blood tests may be required.,Hindi,Yes
+fever,Is chest pain serious?,Please consult a physician and take rest.,Tamil,No
+fatigue,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+diabetes symptoms,How to control blood sugar?,Avoid self-medication without advice.,Hindi,No
+cough,How to reduce BP naturally?,Please consult a physician and take rest.,English,Yes
+chest pain,When should I see a doctor?,Blood tests may be required.,Hindi,Yes
+headache,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+cough,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+high blood pressure,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+fatigue,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+fever,When should I see a doctor?,Please consult a physician and take rest.,Hindi,Yes
+fatigue,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+breathing difficulty,Is chest pain serious?,Please consult a physician and take rest.,Telugu,No
+diabetes symptoms,Is chest pain serious?,Please consult a physician and take rest.,Hindi,No
+cough,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,Hindi,No
+chest pain,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,Yes
+cough,When should I see a doctor?,Blood tests may be required.,Telugu,No
+diabetes symptoms,Can I take paracetamol daily?,Please consult a physician and take rest.,Hindi,Yes
+fatigue,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+breathing difficulty,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+diabetes symptoms,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,Yes
+diabetes symptoms,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,Yes
+vomiting,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+nausea,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fatigue,Is chest pain serious?,Blood tests may be required.,English,No
+high blood pressure,I feel tired all the time,Avoid self-medication without advice.,Hindi,Yes
+fatigue,Can I take paracetamol daily?,Avoid self-medication without advice.,English,Yes
+fatigue,Is headache dangerous?,Avoid self-medication without advice.,Hindi,No
+fatigue,How to control blood sugar?,Avoid self-medication without advice.,Tamil,Yes
+vomiting,I feel tired all the time,Avoid self-medication without advice.,Tamil,No
+diabetes symptoms,Is headache dangerous?,Blood tests may be required.,Tamil,No
+nausea,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+breathing difficulty,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+diabetes symptoms,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+headache,Is headache dangerous?,Blood tests may be required.,Hindi,Yes
+chest pain,Is chest pain serious?,Blood tests may be required.,Hindi,No
+fatigue,Is chest pain serious?,Blood tests may be required.,Telugu,No
+nausea,"I have fever and cough, what should I do?",Avoid self-medication without advice.,English,No
+chest pain,When should I see a doctor?,Avoid self-medication without advice.,Tamil,Yes
+cough,I feel tired all the time,Please consult a physician and take rest.,Tamil,No
+headache,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+diabetes symptoms,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,No
+headache,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+nausea,How to reduce BP naturally?,Blood tests may be required.,Hindi,Yes
+fever,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+chest pain,When should I see a doctor?,Blood tests may be required.,Telugu,No
+chest pain,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+headache,Is chest pain serious?,Please consult a physician and take rest.,Hindi,No
+diabetes symptoms,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,Yes
+high blood pressure,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+diabetes symptoms,Is chest pain serious?,Blood tests may be required.,Tamil,No
+diabetes symptoms,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Telugu,No
+vomiting,How to reduce BP naturally?,Please consult a physician and take rest.,Telugu,Yes
+fatigue,Can I take paracetamol daily?,Blood tests may be required.,Telugu,Yes
+headache,When should I see a doctor?,Blood tests may be required.,Hindi,Yes
+fatigue,Is headache dangerous?,Blood tests may be required.,Hindi,No
+diabetes symptoms,Is chest pain serious?,Please consult a physician and take rest.,Hindi,Yes
+cough,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Hindi,No
+high blood pressure,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+high blood pressure,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Telugu,No
+headache,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+cough,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,English,No
+high blood pressure,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+breathing difficulty,Is chest pain serious?,Avoid self-medication without advice.,Hindi,Yes
+headache,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+high blood pressure,How to reduce BP naturally?,Avoid self-medication without advice.,Tamil,Yes
+cough,Is headache dangerous?,Avoid self-medication without advice.,English,Yes
+breathing difficulty,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,How to reduce BP naturally?,Please consult a physician and take rest.,English,Yes
+breathing difficulty,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+chest pain,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,When should I see a doctor?,Avoid self-medication without advice.,Telugu,Yes
+headache,Can I take paracetamol daily?,Please consult a physician and take rest.,Telugu,No
+headache,I feel tired all the time,Blood tests may be required.,Telugu,No
+nausea,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,No
+fatigue,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fever,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,Tamil,Yes
+headache,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,Telugu,Yes
+chest pain,I feel tired all the time,Please consult a physician and take rest.,English,No
+diabetes symptoms,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,No
+vomiting,How to control blood sugar?,Avoid self-medication without advice.,Tamil,Yes
+breathing difficulty,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,No
+diabetes symptoms,How to reduce BP naturally?,Avoid self-medication without advice.,English,No
+fatigue,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Hindi,No
+breathing difficulty,When should I see a doctor?,Blood tests may be required.,English,Yes
+diabetes symptoms,How to reduce BP naturally?,Avoid self-medication without advice.,Tamil,No
+cough,When should I see a doctor?,Avoid self-medication without advice.,Hindi,No
+breathing difficulty,Is chest pain serious?,Please consult a physician and take rest.,English,No
+fever,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,No
+fatigue,I feel tired all the time,Please consult a physician and take rest.,English,Yes
+high blood pressure,Is chest pain serious?,Please consult a physician and take rest.,Hindi,No
+fever,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,Yes
+headache,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,No
+headache,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+chest pain,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+nausea,How to control blood sugar?,Please consult a physician and take rest.,English,No
+nausea,Can I take paracetamol daily?,Blood tests may be required.,Tamil,No
+fever,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",English,No
+diabetes symptoms,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+cough,I feel tired all the time,Avoid self-medication without advice.,Hindi,No
+cough,"I have fever and cough, what should I do?",Blood tests may be required.,Tamil,Yes
+chest pain,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+chest pain,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,No
+high blood pressure,When should I see a doctor?,Please consult a physician and take rest.,English,No
+diabetes symptoms,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+nausea,Is headache dangerous?,Avoid self-medication without advice.,Tamil,Yes
+headache,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+fever,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Hindi,Yes
+nausea,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+breathing difficulty,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+vomiting,I feel tired all the time,Please consult a physician and take rest.,English,No
+fever,How to reduce BP naturally?,Please consult a physician and take rest.,English,Yes
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,Telugu,Yes
+nausea,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fatigue,Can I take paracetamol daily?,Please consult a physician and take rest.,Tamil,Yes
+fatigue,Can I take paracetamol daily?,Please consult a physician and take rest.,Tamil,No
+nausea,When should I see a doctor?,Please consult a physician and take rest.,English,Yes
+chest pain,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,Yes
+vomiting,When should I see a doctor?,Avoid self-medication without advice.,Telugu,No
+breathing difficulty,Is headache dangerous?,Please consult a physician and take rest.,Telugu,Yes
+high blood pressure,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,Yes
+headache,I feel tired all the time,Avoid self-medication without advice.,Hindi,No
+cough,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Telugu,No
+chest pain,Is headache dangerous?,Blood tests may be required.,Hindi,No
+fever,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+fever,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+high blood pressure,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+chest pain,Is chest pain serious?,Blood tests may be required.,Hindi,Yes
+fever,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,Yes
+high blood pressure,How to control blood sugar?,Blood tests may be required.,English,Yes
+chest pain,"I have fever and cough, what should I do?",Blood tests may be required.,Tamil,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,No
+vomiting,When should I see a doctor?,Blood tests may be required.,Hindi,No
+breathing difficulty,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Tamil,No
+diabetes symptoms,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+fever,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+fever,How to control blood sugar?,Please consult a physician and take rest.,Telugu,No
+vomiting,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Tamil,No
+nausea,I feel tired all the time,Please consult a physician and take rest.,Tamil,Yes
+vomiting,Is headache dangerous?,Blood tests may be required.,Telugu,Yes
+fatigue,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,No
+high blood pressure,I feel tired all the time,Blood tests may be required.,Tamil,No
+headache,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+high blood pressure,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+headache,How to control blood sugar?,Please consult a physician and take rest.,Hindi,No
+fever,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,Yes
+breathing difficulty,I feel tired all the time,Please consult a physician and take rest.,Hindi,No
+chest pain,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,No
+nausea,I feel tired all the time,Avoid self-medication without advice.,Telugu,No
+nausea,Is chest pain serious?,Please consult a physician and take rest.,English,No
+nausea,"I have fever and cough, what should I do?",Avoid self-medication without advice.,English,No
+fatigue,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,Yes
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+high blood pressure,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+fatigue,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",English,No
+headache,I feel tired all the time,Avoid self-medication without advice.,Hindi,Yes
+high blood pressure,"I have fever and cough, what should I do?",Blood tests may be required.,English,Yes
+nausea,Is chest pain serious?,Blood tests may be required.,English,Yes
+diabetes symptoms,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+breathing difficulty,Is chest pain serious?,Avoid self-medication without advice.,Tamil,No
+fatigue,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+cough,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+diabetes symptoms,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+breathing difficulty,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+diabetes symptoms,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+breathing difficulty,How to reduce BP naturally?,Avoid self-medication without advice.,English,No
+chest pain,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+nausea,Is chest pain serious?,Avoid self-medication without advice.,Tamil,Yes
+fatigue,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,No
+chest pain,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+chest pain,How to reduce BP naturally?,Blood tests may be required.,Telugu,No
+cough,When should I see a doctor?,Please consult a physician and take rest.,English,No
+vomiting,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,Yes
+nausea,Is headache dangerous?,Please consult a physician and take rest.,English,No
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,No
+fever,When should I see a doctor?,Blood tests may be required.,Tamil,No
+chest pain,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+breathing difficulty,When should I see a doctor?,Please consult a physician and take rest.,Hindi,No
+fatigue,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+cough,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+diabetes symptoms,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+vomiting,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+cough,Can I take paracetamol daily?,Blood tests may be required.,Tamil,Yes
+fatigue,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+headache,I feel tired all the time,Please consult a physician and take rest.,English,Yes
+cough,When should I see a doctor?,Blood tests may be required.,Hindi,No
+nausea,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,No
+diabetes symptoms,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fever,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,No
+fever,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,No
+breathing difficulty,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,No
+cough,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+diabetes symptoms,Is headache dangerous?,Please consult a physician and take rest.,English,No
+chest pain,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",English,Yes
+diabetes symptoms,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,No
+fever,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+fatigue,Is headache dangerous?,Avoid self-medication without advice.,Hindi,No
+breathing difficulty,How to control blood sugar?,Please consult a physician and take rest.,Hindi,Yes
+fever,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+fever,How to control blood sugar?,Please consult a physician and take rest.,English,No
+high blood pressure,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Telugu,No
+vomiting,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+fever,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Telugu,No
+chest pain,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+high blood pressure,When should I see a doctor?,Blood tests may be required.,Tamil,Yes
+high blood pressure,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,English,Yes
+nausea,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+headache,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,I feel tired all the time,Blood tests may be required.,Tamil,No
+cough,How to reduce BP naturally?,Avoid self-medication without advice.,English,Yes
+diabetes symptoms,When should I see a doctor?,Blood tests may be required.,English,No
+high blood pressure,How to control blood sugar?,Blood tests may be required.,Hindi,Yes
+nausea,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+breathing difficulty,How to control blood sugar?,Blood tests may be required.,Hindi,Yes
+breathing difficulty,I feel tired all the time,Avoid self-medication without advice.,English,Yes
+chest pain,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+fatigue,How to control blood sugar?,Blood tests may be required.,Tamil,Yes
+high blood pressure,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+diabetes symptoms,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Hindi,No
+chest pain,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+breathing difficulty,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+nausea,When should I see a doctor?,Blood tests may be required.,Tamil,No
+fatigue,How to control blood sugar?,Blood tests may be required.,Telugu,Yes
+cough,I feel tired all the time,"Maintain diet, exercise and medication regularly.",English,No
+chest pain,How to control blood sugar?,Blood tests may be required.,Telugu,No
+diabetes symptoms,Is headache dangerous?,Please consult a physician and take rest.,Tamil,Yes
+nausea,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,No
+nausea,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+fever,Can I take paracetamol daily?,Blood tests may be required.,Tamil,Yes
+chest pain,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+nausea,Can I take paracetamol daily?,Please consult a physician and take rest.,English,Yes
+vomiting,I feel tired all the time,"Maintain diet, exercise and medication regularly.",English,No
+cough,Is headache dangerous?,Please consult a physician and take rest.,Hindi,Yes
+vomiting,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+high blood pressure,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,No
+headache,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,Yes
+nausea,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Telugu,Yes
+fatigue,I feel tired all the time,Please consult a physician and take rest.,Hindi,Yes
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,Telugu,No
+diabetes symptoms,How to reduce BP naturally?,Please consult a physician and take rest.,Telugu,Yes
+cough,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+breathing difficulty,How to reduce BP naturally?,Blood tests may be required.,Tamil,No
+fatigue,Can I take paracetamol daily?,Blood tests may be required.,English,No
+diabetes symptoms,Is headache dangerous?,Avoid self-medication without advice.,Hindi,Yes
+headache,Is chest pain serious?,Blood tests may be required.,English,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Blood tests may be required.,English,No
+nausea,"I have fever and cough, what should I do?",Blood tests may be required.,Tamil,No
+breathing difficulty,Is headache dangerous?,Avoid self-medication without advice.,Telugu,No
+diabetes symptoms,I feel tired all the time,Avoid self-medication without advice.,English,Yes
+headache,Can I take paracetamol daily?,Please consult a physician and take rest.,Tamil,Yes
+nausea,Is headache dangerous?,Blood tests may be required.,English,No
+headache,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+cough,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fever,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,No
+headache,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+high blood pressure,Can I take paracetamol daily?,Blood tests may be required.,Hindi,No
+nausea,Is chest pain serious?,Please consult a physician and take rest.,Tamil,Yes
+high blood pressure,I feel tired all the time,Avoid self-medication without advice.,Telugu,Yes
+nausea,"I have fever and cough, what should I do?",Blood tests may be required.,English,No
+high blood pressure,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+fatigue,How to control blood sugar?,Please consult a physician and take rest.,English,No
+fatigue,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+headache,Is chest pain serious?,Blood tests may be required.,Telugu,Yes
+fever,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,Yes
+nausea,Can I take paracetamol daily?,Blood tests may be required.,Hindi,Yes
+headache,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,No
+fatigue,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,Yes
+cough,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+vomiting,How to reduce BP naturally?,Please consult a physician and take rest.,Telugu,Yes
+cough,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+breathing difficulty,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,How to reduce BP naturally?,Blood tests may be required.,English,Yes
+nausea,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+chest pain,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+chest pain,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+nausea,How to control blood sugar?,Please consult a physician and take rest.,Tamil,Yes
+nausea,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",English,Yes
+headache,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,Yes
+cough,Is headache dangerous?,Avoid self-medication without advice.,Tamil,Yes
+fatigue,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+headache,How to control blood sugar?,Blood tests may be required.,Telugu,No
+fever,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+fatigue,Is headache dangerous?,Please consult a physician and take rest.,Tamil,No
+chest pain,When should I see a doctor?,Please consult a physician and take rest.,English,No
+vomiting,How to control blood sugar?,Blood tests may be required.,Tamil,No
+vomiting,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+fatigue,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+diabetes symptoms,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Tamil,No
+fatigue,I feel tired all the time,Please consult a physician and take rest.,Hindi,No
+headache,Is chest pain serious?,Blood tests may be required.,Tamil,No
+vomiting,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+vomiting,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+nausea,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,Yes
+breathing difficulty,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,Yes
+chest pain,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+cough,Is chest pain serious?,Avoid self-medication without advice.,Telugu,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,No
+headache,When should I see a doctor?,Blood tests may be required.,Telugu,No
+diabetes symptoms,Is chest pain serious?,Please consult a physician and take rest.,English,Yes
+breathing difficulty,Can I take paracetamol daily?,Please consult a physician and take rest.,Hindi,No
+chest pain,Can I take paracetamol daily?,Blood tests may be required.,Tamil,Yes
+breathing difficulty,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+vomiting,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+vomiting,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+nausea,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",English,Yes
+vomiting,How to control blood sugar?,Please consult a physician and take rest.,Tamil,No
+fatigue,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fatigue,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fatigue,Is headache dangerous?,Avoid self-medication without advice.,Telugu,Yes
+cough,I feel tired all the time,Please consult a physician and take rest.,Hindi,Yes
+vomiting,Is chest pain serious?,Avoid self-medication without advice.,Telugu,Yes
+breathing difficulty,When should I see a doctor?,Please consult a physician and take rest.,Tamil,Yes
+fever,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+headache,How to reduce BP naturally?,Blood tests may be required.,Hindi,No
+nausea,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+headache,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,No
+vomiting,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,No
+nausea,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,No
+vomiting,How to reduce BP naturally?,Blood tests may be required.,Hindi,No
+cough,Is chest pain serious?,Avoid self-medication without advice.,Telugu,No
+high blood pressure,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+chest pain,I feel tired all the time,"Maintain diet, exercise and medication regularly.",English,No
+fatigue,How to control blood sugar?,Avoid self-medication without advice.,Hindi,No
+headache,How to control blood sugar?,Please consult a physician and take rest.,English,Yes
+high blood pressure,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,Is headache dangerous?,Please consult a physician and take rest.,English,No
+breathing difficulty,I feel tired all the time,Avoid self-medication without advice.,English,No
+fatigue,How to reduce BP naturally?,Blood tests may be required.,Hindi,Yes
+vomiting,How to control blood sugar?,Avoid self-medication without advice.,Hindi,Yes
+chest pain,When should I see a doctor?,Blood tests may be required.,English,Yes
+fever,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,Yes
+high blood pressure,Can I take paracetamol daily?,Blood tests may be required.,Tamil,Yes
+vomiting,I feel tired all the time,Avoid self-medication without advice.,Hindi,Yes
+vomiting,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Tamil,No
+headache,How to reduce BP naturally?,Blood tests may be required.,English,Yes
+nausea,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Hindi,No
+breathing difficulty,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fever,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+fever,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+headache,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+fatigue,Is headache dangerous?,Blood tests may be required.,Telugu,Yes
+cough,How to reduce BP naturally?,Blood tests may be required.,Tamil,No
+breathing difficulty,When should I see a doctor?,Blood tests may be required.,Hindi,Yes
+nausea,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+diabetes symptoms,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Hindi,No
+vomiting,I feel tired all the time,Blood tests may be required.,Telugu,No
+breathing difficulty,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Telugu,No
+breathing difficulty,I feel tired all the time,Blood tests may be required.,English,No
+headache,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,How to reduce BP naturally?,Please consult a physician and take rest.,Telugu,Yes
+nausea,I feel tired all the time,Please consult a physician and take rest.,Hindi,No
+chest pain,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Tamil,Yes
+cough,How to control blood sugar?,Please consult a physician and take rest.,Telugu,Yes
+chest pain,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+headache,Can I take paracetamol daily?,Please consult a physician and take rest.,English,Yes
+fatigue,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+fever,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,Yes
+nausea,Is headache dangerous?,Avoid self-medication without advice.,Tamil,No
+breathing difficulty,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+breathing difficulty,When should I see a doctor?,Blood tests may be required.,English,Yes
+breathing difficulty,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,Yes
+cough,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+fever,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+chest pain,Can I take paracetamol daily?,Avoid self-medication without advice.,English,No
+nausea,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,No
+fever,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,No
+headache,I feel tired all the time,Avoid self-medication without advice.,English,No
+fever,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,Yes
+nausea,"I have fever and cough, what should I do?",Blood tests may be required.,Hindi,Yes
+headache,How to reduce BP naturally?,Blood tests may be required.,Hindi,Yes
+breathing difficulty,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",English,No
+vomiting,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,No
+nausea,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",English,Yes
+cough,I feel tired all the time,Blood tests may be required.,Telugu,Yes
+fever,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,Is chest pain serious?,Blood tests may be required.,Tamil,Yes
+cough,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",English,No
+nausea,"I have fever and cough, what should I do?",Please consult a physician and take rest.,English,Yes
+vomiting,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,English,No
+high blood pressure,How to reduce BP naturally?,Avoid self-medication without advice.,English,Yes
+diabetes symptoms,How to control blood sugar?,Avoid self-medication without advice.,Tamil,No
+breathing difficulty,How to control blood sugar?,Avoid self-medication without advice.,Tamil,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fever,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+nausea,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",English,No
+fever,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,Telugu,No
+vomiting,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+fatigue,How to reduce BP naturally?,Please consult a physician and take rest.,English,Yes
+diabetes symptoms,How to control blood sugar?,Blood tests may be required.,Hindi,Yes
+vomiting,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+fatigue,I feel tired all the time,Please consult a physician and take rest.,Tamil,Yes
+high blood pressure,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Telugu,No
+breathing difficulty,How to control blood sugar?,Avoid self-medication without advice.,Hindi,No
+nausea,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+headache,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+fatigue,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,Yes
+headache,I feel tired all the time,Avoid self-medication without advice.,Tamil,No
+high blood pressure,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+headache,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Telugu,Yes
+fever,I feel tired all the time,Blood tests may be required.,Tamil,No
+diabetes symptoms,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+breathing difficulty,I feel tired all the time,Blood tests may be required.,Hindi,No
+diabetes symptoms,I feel tired all the time,Avoid self-medication without advice.,Hindi,No
+chest pain,Is chest pain serious?,Please consult a physician and take rest.,Telugu,Yes
+diabetes symptoms,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Avoid self-medication without advice.,English,Yes
+nausea,Is chest pain serious?,Avoid self-medication without advice.,Telugu,Yes
+cough,How to reduce BP naturally?,Avoid self-medication without advice.,English,No
+diabetes symptoms,I feel tired all the time,Blood tests may be required.,English,Yes
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,No
+chest pain,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,How to control blood sugar?,Please consult a physician and take rest.,Telugu,No
+vomiting,Can I take paracetamol daily?,Blood tests may be required.,English,No
+diabetes symptoms,How to reduce BP naturally?,Blood tests may be required.,English,No
+high blood pressure,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+breathing difficulty,How to control blood sugar?,Avoid self-medication without advice.,Telugu,No
+fever,Is chest pain serious?,Please consult a physician and take rest.,Tamil,No
+high blood pressure,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",English,Yes
+breathing difficulty,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,Yes
+breathing difficulty,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+nausea,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",English,No
+cough,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,No
+nausea,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,No
+headache,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Tamil,Yes
+headache,How to control blood sugar?,Please consult a physician and take rest.,Hindi,No
+chest pain,When should I see a doctor?,Blood tests may be required.,Hindi,No
+fatigue,Is headache dangerous?,Please consult a physician and take rest.,Tamil,Yes
+chest pain,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,No
+fever,How to reduce BP naturally?,Blood tests may be required.,Tamil,No
+breathing difficulty,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,Telugu,No
+vomiting,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+chest pain,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+chest pain,When should I see a doctor?,Avoid self-medication without advice.,English,Yes
+nausea,Can I take paracetamol daily?,Please consult a physician and take rest.,Tamil,No
+headache,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",English,Yes
+fatigue,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,No
+chest pain,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",English,Yes
+chest pain,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+fatigue,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+nausea,When should I see a doctor?,Blood tests may be required.,Telugu,Yes
+high blood pressure,When should I see a doctor?,Please consult a physician and take rest.,English,Yes
+cough,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+cough,When should I see a doctor?,Please consult a physician and take rest.,Hindi,Yes
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+high blood pressure,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+diabetes symptoms,How to reduce BP naturally?,Avoid self-medication without advice.,Telugu,No
+chest pain,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,No
+chest pain,Can I take paracetamol daily?,Blood tests may be required.,Hindi,No
+vomiting,Is chest pain serious?,Blood tests may be required.,Hindi,Yes
+high blood pressure,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,English,Yes
+chest pain,How to reduce BP naturally?,Blood tests may be required.,Tamil,Yes
+high blood pressure,Can I take paracetamol daily?,Blood tests may be required.,English,No
+headache,Is headache dangerous?,Avoid self-medication without advice.,Tamil,Yes
+fever,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,No
+headache,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+diabetes symptoms,How to control blood sugar?,Please consult a physician and take rest.,Hindi,No
+diabetes symptoms,Is chest pain serious?,Blood tests may be required.,Hindi,No
+nausea,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+chest pain,Is chest pain serious?,Blood tests may be required.,English,Yes
+cough,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+high blood pressure,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,Yes
+fatigue,Is headache dangerous?,Avoid self-medication without advice.,Tamil,No
+cough,How to reduce BP naturally?,Blood tests may be required.,Hindi,No
+chest pain,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",English,No
+nausea,How to control blood sugar?,Please consult a physician and take rest.,English,Yes
+chest pain,Is headache dangerous?,Please consult a physician and take rest.,Telugu,Yes
+headache,I feel tired all the time,Please consult a physician and take rest.,Telugu,Yes
+high blood pressure,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Telugu,No
+nausea,I feel tired all the time,Blood tests may be required.,Hindi,No
+high blood pressure,Is headache dangerous?,Blood tests may be required.,Tamil,No
+cough,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+cough,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Telugu,No
+fatigue,Is chest pain serious?,Please consult a physician and take rest.,Telugu,No
+headache,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+breathing difficulty,I feel tired all the time,Blood tests may be required.,Hindi,No
+vomiting,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,No
+diabetes symptoms,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+nausea,How to control blood sugar?,Avoid self-medication without advice.,English,No
+fever,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+fever,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,Yes
+fatigue,When should I see a doctor?,Please consult a physician and take rest.,Hindi,Yes
+nausea,How to reduce BP naturally?,Blood tests may be required.,English,No
+vomiting,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+vomiting,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,English,Yes
+cough,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+fatigue,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,English,No
+vomiting,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,No
+cough,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",English,Yes
+nausea,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,No
+cough,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+cough,"I have fever and cough, what should I do?",Avoid self-medication without advice.,English,Yes
+vomiting,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+headache,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+fatigue,"I have fever and cough, what should I do?",Blood tests may be required.,Hindi,No
+high blood pressure,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,No
+high blood pressure,I feel tired all the time,Avoid self-medication without advice.,Telugu,Yes
+headache,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,Yes
+vomiting,When should I see a doctor?,Please consult a physician and take rest.,English,Yes
+chest pain,Is chest pain serious?,Avoid self-medication without advice.,English,No
+headache,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Telugu,No
+diabetes symptoms,Is headache dangerous?,Please consult a physician and take rest.,Telugu,Yes
+cough,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,No
+nausea,Is headache dangerous?,Blood tests may be required.,English,No
+chest pain,Is chest pain serious?,Blood tests may be required.,English,Yes
+vomiting,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,No
+vomiting,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,I feel tired all the time,Avoid self-medication without advice.,English,Yes
+fever,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,No
+breathing difficulty,Can I take paracetamol daily?,Please consult a physician and take rest.,Telugu,No
+breathing difficulty,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+cough,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+high blood pressure,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+chest pain,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Tamil,No
+breathing difficulty,Is chest pain serious?,Please consult a physician and take rest.,Tamil,No
+fatigue,Is headache dangerous?,Please consult a physician and take rest.,Tamil,Yes
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,Hindi,Yes
+chest pain,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Tamil,No
+cough,"I have fever and cough, what should I do?",Blood tests may be required.,English,No
+fever,I feel tired all the time,Avoid self-medication without advice.,Telugu,No
+diabetes symptoms,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+cough,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,No
+headache,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+nausea,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fatigue,Is headache dangerous?,Please consult a physician and take rest.,Hindi,Yes
+nausea,I feel tired all the time,Please consult a physician and take rest.,English,Yes
+fever,Is headache dangerous?,Blood tests may be required.,English,No
+chest pain,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+cough,I feel tired all the time,Avoid self-medication without advice.,Hindi,No
+fatigue,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fever,When should I see a doctor?,Avoid self-medication without advice.,Tamil,No
+chest pain,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+diabetes symptoms,"I have fever and cough, what should I do?",Blood tests may be required.,Hindi,Yes
+fatigue,Is chest pain serious?,Blood tests may be required.,Tamil,No
+headache,How to control blood sugar?,Blood tests may be required.,Telugu,No
+chest pain,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,No
+chest pain,Is headache dangerous?,Please consult a physician and take rest.,Tamil,No
+fatigue,How to control blood sugar?,Please consult a physician and take rest.,Hindi,No
+fever,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,Yes
+high blood pressure,Is headache dangerous?,Blood tests may be required.,Tamil,No
+fatigue,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+fever,Can I take paracetamol daily?,"Maintain diet, exercise and medication regularly.",English,Yes
+cough,Is headache dangerous?,Avoid self-medication without advice.,Telugu,Yes
+cough,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+chest pain,Is chest pain serious?,Blood tests may be required.,Hindi,No
+chest pain,When should I see a doctor?,Please consult a physician and take rest.,English,No
+vomiting,Is headache dangerous?,Blood tests may be required.,English,Yes
+cough,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,No
+fatigue,How to reduce BP naturally?,Avoid self-medication without advice.,Telugu,Yes
+headache,How to reduce BP naturally?,Please consult a physician and take rest.,Telugu,Yes
+nausea,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,Yes
+fatigue,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,Yes
+fatigue,Can I take paracetamol daily?,Please consult a physician and take rest.,Telugu,Yes
+cough,How to reduce BP naturally?,Please consult a physician and take rest.,Tamil,No
+breathing difficulty,Is chest pain serious?,Blood tests may be required.,Telugu,No
+fever,Is chest pain serious?,Blood tests may be required.,Hindi,No
+nausea,Is headache dangerous?,Avoid self-medication without advice.,Hindi,No
+fever,"I have fever and cough, what should I do?",Blood tests may be required.,Telugu,Yes
+diabetes symptoms,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Hindi,Yes
+high blood pressure,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",English,No
+diabetes symptoms,Is headache dangerous?,Please consult a physician and take rest.,English,No
+vomiting,How to control blood sugar?,Avoid self-medication without advice.,English,No
+nausea,I feel tired all the time,Blood tests may be required.,English,No
+breathing difficulty,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,Yes
+breathing difficulty,Is headache dangerous?,Please consult a physician and take rest.,English,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+fatigue,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,English,No
+breathing difficulty,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Hindi,Yes
+high blood pressure,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+vomiting,How to control blood sugar?,Blood tests may be required.,English,No
+high blood pressure,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+cough,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Telugu,No
+cough,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fever,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Telugu,No
+fatigue,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Telugu,Yes
+headache,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+fever,"I have fever and cough, what should I do?",Avoid self-medication without advice.,English,Yes
+fatigue,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+high blood pressure,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+diabetes symptoms,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+fatigue,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+fatigue,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,English,No
+cough,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+vomiting,When should I see a doctor?,Avoid self-medication without advice.,Hindi,No
+chest pain,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+chest pain,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+nausea,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+headache,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+chest pain,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,Yes
+fatigue,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Hindi,No
+fever,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+cough,"I have fever and cough, what should I do?",Blood tests may be required.,English,No
+chest pain,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",English,No
+high blood pressure,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,English,No
+fatigue,"I have fever and cough, what should I do?",Blood tests may be required.,English,No
+fatigue,When should I see a doctor?,Avoid self-medication without advice.,English,No
+chest pain,Can I take paracetamol daily?,Avoid self-medication without advice.,English,No
+chest pain,Is headache dangerous?,Please consult a physician and take rest.,Hindi,No
+diabetes symptoms,I feel tired all the time,Blood tests may be required.,English,No
+breathing difficulty,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+fever,How to control blood sugar?,Please consult a physician and take rest.,Tamil,No
+vomiting,How to control blood sugar?,Please consult a physician and take rest.,Hindi,Yes
+diabetes symptoms,How to control blood sugar?,Please consult a physician and take rest.,Tamil,Yes
+chest pain,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Hindi,No
+vomiting,How to reduce BP naturally?,Avoid self-medication without advice.,English,Yes
+high blood pressure,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+fatigue,How to reduce BP naturally?,Blood tests may be required.,Tamil,No
+breathing difficulty,I feel tired all the time,Avoid self-medication without advice.,English,No
+fever,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+diabetes symptoms,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Tamil,No
+chest pain,How to reduce BP naturally?,Blood tests may be required.,Telugu,Yes
+chest pain,Is chest pain serious?,Please consult a physician and take rest.,Telugu,No
+breathing difficulty,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,No
+nausea,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+diabetes symptoms,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+vomiting,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+vomiting,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fever,Is chest pain serious?,Avoid self-medication without advice.,Hindi,No
+cough,"I have fever and cough, what should I do?","Maintain diet, exercise and medication regularly.",Tamil,No
+high blood pressure,Is chest pain serious?,Please consult a physician and take rest.,Tamil,No
+vomiting,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",English,No
+cough,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,No
+chest pain,Is headache dangerous?,Please consult a physician and take rest.,English,Yes
+cough,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+nausea,Is chest pain serious?,Avoid self-medication without advice.,Tamil,Yes
+fever,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+high blood pressure,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+diabetes symptoms,When should I see a doctor?,Please consult a physician and take rest.,English,No
+headache,I feel tired all the time,"Maintain diet, exercise and medication regularly.",English,No
+high blood pressure,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Hindi,No
+vomiting,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+diabetes symptoms,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+vomiting,When should I see a doctor?,Please consult a physician and take rest.,Telugu,Yes
+diabetes symptoms,Can I take paracetamol daily?,Avoid self-medication without advice.,English,No
+fever,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Blood tests may be required.,English,Yes
+nausea,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+fever,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+cough,I feel tired all the time,Please consult a physician and take rest.,English,No
+fatigue,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+chest pain,When should I see a doctor?,Avoid self-medication without advice.,English,Yes
+headache,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+headache,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+breathing difficulty,How to control blood sugar?,Blood tests may be required.,Hindi,No
+nausea,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,No
+breathing difficulty,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,Yes
+headache,Is chest pain serious?,Avoid self-medication without advice.,Hindi,Yes
+nausea,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+nausea,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Telugu,No
+headache,Is chest pain serious?,Blood tests may be required.,Telugu,Yes
+diabetes symptoms,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+chest pain,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+cough,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+high blood pressure,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Telugu,No
+vomiting,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+breathing difficulty,Is headache dangerous?,Blood tests may be required.,Telugu,Yes
+high blood pressure,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+cough,Is chest pain serious?,Blood tests may be required.,Tamil,Yes
+cough,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+nausea,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Hindi,Yes
+high blood pressure,Can I take paracetamol daily?,Avoid self-medication without advice.,Telugu,No
+fatigue,How to control blood sugar?,Avoid self-medication without advice.,Telugu,Yes
+diabetes symptoms,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+high blood pressure,Can I take paracetamol daily?,Please consult a physician and take rest.,Hindi,Yes
+cough,How to reduce BP naturally?,Blood tests may be required.,Telugu,No
+chest pain,I feel tired all the time,Please consult a physician and take rest.,Hindi,Yes
+chest pain,I feel tired all the time,Please consult a physician and take rest.,English,Yes
+fatigue,How to reduce BP naturally?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+nausea,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+diabetes symptoms,Can I take paracetamol daily?,Avoid self-medication without advice.,Tamil,Yes
+breathing difficulty,How to control blood sugar?,Please consult a physician and take rest.,Hindi,No
+breathing difficulty,How to reduce BP naturally?,Please consult a physician and take rest.,Hindi,Yes
+diabetes symptoms,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Telugu,No
+chest pain,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+cough,Is headache dangerous?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+fever,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+chest pain,Is headache dangerous?,Blood tests may be required.,Tamil,No
+high blood pressure,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Tamil,Yes
+breathing difficulty,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+breathing difficulty,"I have fever and cough, what should I do?",Monitor symptoms and seek emergency care if pain increases.,English,No
+diabetes symptoms,Is chest pain serious?,Blood tests may be required.,Telugu,No
+fever,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,Yes
+fatigue,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Telugu,Yes
+fatigue,How to control blood sugar?,Please consult a physician and take rest.,Tamil,No
+vomiting,How to reduce BP naturally?,Avoid self-medication without advice.,Hindi,No
+fever,I feel tired all the time,Please consult a physician and take rest.,Tamil,No
+vomiting,When should I see a doctor?,Please consult a physician and take rest.,Hindi,Yes
+fatigue,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Telugu,No
+breathing difficulty,Is chest pain serious?,Blood tests may be required.,English,No
+headache,Is headache dangerous?,Please consult a physician and take rest.,Telugu,Yes
+headache,Can I take paracetamol daily?,Blood tests may be required.,Telugu,No
+diabetes symptoms,When should I see a doctor?,Avoid self-medication without advice.,Tamil,Yes
+vomiting,Is headache dangerous?,Avoid self-medication without advice.,English,No
+fatigue,How to control blood sugar?,Blood tests may be required.,Tamil,No
+breathing difficulty,I feel tired all the time,"Maintain diet, exercise and medication regularly.",Tamil,No
+chest pain,"I have fever and cough, what should I do?",Avoid self-medication without advice.,Telugu,Yes
+chest pain,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Hindi,No
+cough,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+nausea,How to reduce BP naturally?,Blood tests may be required.,Telugu,Yes
+headache,Is headache dangerous?,"Maintain diet, exercise and medication regularly.",Telugu,No
+high blood pressure,Is headache dangerous?,Blood tests may be required.,Telugu,No
+headache,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Tamil,No
+nausea,How to reduce BP naturally?,Please consult a physician and take rest.,English,Yes
+chest pain,I feel tired all the time,Blood tests may be required.,English,No
+headache,Can I take paracetamol daily?,Blood tests may be required.,Tamil,No
+breathing difficulty,How to control blood sugar?,Avoid self-medication without advice.,Telugu,Yes
+nausea,Is chest pain serious?,Blood tests may be required.,Hindi,No
+high blood pressure,"I have fever and cough, what should I do?",Avoid self-medication without advice.,English,No
+vomiting,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+cough,Can I take paracetamol daily?,Please consult a physician and take rest.,Telugu,Yes
+nausea,When should I see a doctor?,Avoid self-medication without advice.,English,No
+chest pain,When should I see a doctor?,Avoid self-medication without advice.,Hindi,No
+fever,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+cough,Is headache dangerous?,Please consult a physician and take rest.,Telugu,No
+chest pain,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Telugu,No
+fever,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+vomiting,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,No
+headache,I feel tired all the time,Blood tests may be required.,Tamil,Yes
+vomiting,When should I see a doctor?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+fever,When should I see a doctor?,Monitor symptoms and seek emergency care if pain increases.,English,Yes
+high blood pressure,Is chest pain serious?,Avoid self-medication without advice.,Telugu,Yes
+diabetes symptoms,"I have fever and cough, what should I do?",Please consult a physician and take rest.,Tamil,Yes
+high blood pressure,How to reduce BP naturally?,Please consult a physician and take rest.,Telugu,No
+vomiting,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Telugu,No
+headache,Can I take paracetamol daily?,Blood tests may be required.,English,Yes
+fatigue,I feel tired all the time,Avoid self-medication without advice.,Telugu,No
+chest pain,"I have fever and cough, what should I do?",Blood tests may be required.,English,Yes
+fatigue,Can I take paracetamol daily?,Monitor symptoms and seek emergency care if pain increases.,Hindi,No
+vomiting,I feel tired all the time,Blood tests may be required.,Tamil,No
+high blood pressure,I feel tired all the time,Please consult a physician and take rest.,English,Yes
+nausea,Can I take paracetamol daily?,Avoid self-medication without advice.,Hindi,No
+nausea,When should I see a doctor?,Please consult a physician and take rest.,Tamil,No
+breathing difficulty,Is chest pain serious?,"Maintain diet, exercise and medication regularly.",Telugu,No
+diabetes symptoms,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,No
+fever,Is chest pain serious?,Please consult a physician and take rest.,Tamil,Yes
+high blood pressure,Is headache dangerous?,Blood tests may be required.,Tamil,Yes
+chest pain,Can I take paracetamol daily?,Please consult a physician and take rest.,Tamil,Yes
+diabetes symptoms,How to control blood sugar?,Avoid self-medication without advice.,Telugu,Yes
+fatigue,How to control blood sugar?,Please consult a physician and take rest.,Tamil,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Hindi,Yes
+nausea,How to control blood sugar?,Monitor symptoms and seek emergency care if pain increases.,Tamil,No
+high blood pressure,I feel tired all the time,Monitor symptoms and seek emergency care if pain increases.,Tamil,Yes
+nausea,Is chest pain serious?,Monitor symptoms and seek emergency care if pain increases.,English,No
+vomiting,How to control blood sugar?,"Maintain diet, exercise and medication regularly.",Tamil,No
+chest pain,How to control blood sugar?,Blood tests may be required.,Tamil,Yes
+high blood pressure,How to reduce BP naturally?,"Maintain diet, exercise and medication regularly.",Telugu,Yes
+breathing difficulty,Can I take paracetamol daily?,Avoid self-medication without advice.,English,No

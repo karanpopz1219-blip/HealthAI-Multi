@@ -1,0 +1,1001 @@
+patient_id,feedback_text,sentiment
+1,Excellent care and very supportive staff.,positive
+2,The service was acceptable.,neutral
+3,The service was acceptable.,neutral
+4,Hospital stay was average.,neutral
+5,Staff response was slow.,negative
+6,The service was acceptable.,neutral
+7,Excellent care and very supportive staff.,positive
+8,Excellent care and very supportive staff.,positive
+9,Hospital stay was average.,neutral
+10,Very satisfied with the treatment provided.,positive
+11,Long waiting time and poor communication.,negative
+12,Staff response was slow.,negative
+13,Not happy with the hospital services.,negative
+14,Hospital stay was average.,neutral
+15,Very satisfied with the treatment provided.,positive
+16,Not happy with the hospital services.,negative
+17,No major complaints.,neutral
+18,Long waiting time and poor communication.,negative
+19,Staff response was slow.,negative
+20,Hospital stay was average.,neutral
+21,Excellent care and very supportive staff.,positive
+22,Long waiting time and poor communication.,negative
+23,Doctor explained everything clearly.,positive
+24,Staff response was slow.,negative
+25,Very satisfied with the treatment provided.,positive
+26,Hospital stay was average.,neutral
+27,Staff response was slow.,negative
+28,Very satisfied with the treatment provided.,positive
+29,The service was acceptable.,neutral
+30,No major complaints.,neutral
+31,No major complaints.,neutral
+32,Doctor explained everything clearly.,positive
+33,Long waiting time and poor communication.,negative
+34,Doctor explained everything clearly.,positive
+35,Hospital stay was average.,neutral
+36,Doctor explained everything clearly.,positive
+37,No major complaints.,neutral
+38,Staff response was slow.,negative
+39,Very satisfied with the treatment provided.,positive
+40,Excellent care and very supportive staff.,positive
+41,Doctor explained everything clearly.,positive
+42,No major complaints.,neutral
+43,Long waiting time and poor communication.,negative
+44,The service was acceptable.,neutral
+45,Long waiting time and poor communication.,negative
+46,Doctor explained everything clearly.,positive
+47,No major complaints.,neutral
+48,Not happy with the hospital services.,negative
+49,Staff response was slow.,negative
+50,Hospital stay was average.,neutral
+51,Excellent care and very supportive staff.,positive
+52,Not happy with the hospital services.,negative
+53,Excellent care and very supportive staff.,positive
+54,Excellent care and very supportive staff.,positive
+55,Staff response was slow.,negative
+56,Staff response was slow.,negative
+57,Doctor explained everything clearly.,positive
+58,Doctor explained everything clearly.,positive
+59,Excellent care and very supportive staff.,positive
+60,Staff response was slow.,negative
+61,Hospital stay was average.,neutral
+62,Excellent care and very supportive staff.,positive
+63,Very satisfied with the treatment provided.,positive
+64,No major complaints.,neutral
+65,Staff response was slow.,negative
+66,No major complaints.,neutral
+67,Very satisfied with the treatment provided.,positive
+68,Hospital stay was average.,neutral
+69,The service was acceptable.,neutral
+70,Excellent care and very supportive staff.,positive
+71,Not happy with the hospital services.,negative
+72,Very satisfied with the treatment provided.,positive
+73,The service was acceptable.,neutral
+74,Long waiting time and poor communication.,negative
+75,The service was acceptable.,neutral
+76,Very satisfied with the treatment provided.,positive
+77,The service was acceptable.,neutral
+78,Very satisfied with the treatment provided.,positive
+79,Hospital stay was average.,neutral
+80,Excellent care and very supportive staff.,positive
+81,Long waiting time and poor communication.,negative
+82,Excellent care and very supportive staff.,positive
+83,Staff response was slow.,negative
+84,Hospital stay was average.,neutral
+85,Excellent care and very supportive staff.,positive
+86,Not happy with the hospital services.,negative
+87,Excellent care and very supportive staff.,positive
+88,Doctor explained everything clearly.,positive
+89,Very satisfied with the treatment provided.,positive
+90,The service was acceptable.,neutral
+91,Excellent care and very supportive staff.,positive
+92,Hospital stay was average.,neutral
+93,Hospital stay was average.,neutral
+94,Staff response was slow.,negative
+95,Not happy with the hospital services.,negative
+96,Doctor explained everything clearly.,positive
+97,Hospital stay was average.,neutral
+98,The service was acceptable.,neutral
+99,The service was acceptable.,neutral
+100,Doctor explained everything clearly.,positive
+101,Hospital stay was average.,neutral
+102,Not happy with the hospital services.,negative
+103,Doctor explained everything clearly.,positive
+104,Staff response was slow.,negative
+105,Hospital stay was average.,neutral
+106,The service was acceptable.,neutral
+107,Long waiting time and poor communication.,negative
+108,Excellent care and very supportive staff.,positive
+109,Staff response was slow.,negative
+110,No major complaints.,neutral
+111,The service was acceptable.,neutral
+112,Doctor explained everything clearly.,positive
+113,Not happy with the hospital services.,negative
+114,Staff response was slow.,negative
+115,Not happy with the hospital services.,negative
+116,Very satisfied with the treatment provided.,positive
+117,Staff response was slow.,negative
+118,Staff response was slow.,negative
+119,Hospital stay was average.,neutral
+120,Long waiting time and poor communication.,negative
+121,Doctor explained everything clearly.,positive
+122,The service was acceptable.,neutral
+123,Hospital stay was average.,neutral
+124,Long waiting time and poor communication.,negative
+125,Very satisfied with the treatment provided.,positive
+126,Not happy with the hospital services.,negative
+127,Doctor explained everything clearly.,positive
+128,No major complaints.,neutral
+129,Hospital stay was average.,neutral
+130,Long waiting time and poor communication.,negative
+131,No major complaints.,neutral
+132,Very satisfied with the treatment provided.,positive
+133,Long waiting time and poor communication.,negative
+134,Very satisfied with the treatment provided.,positive
+135,Very satisfied with the treatment provided.,positive
+136,Not happy with the hospital services.,negative
+137,The service was acceptable.,neutral
+138,No major complaints.,neutral
+139,No major complaints.,neutral
+140,The service was acceptable.,neutral
+141,Not happy with the hospital services.,negative
+142,Long waiting time and poor communication.,negative
+143,Not happy with the hospital services.,negative
+144,Not happy with the hospital services.,negative
+145,Long waiting time and poor communication.,negative
+146,Not happy with the hospital services.,negative
+147,Very satisfied with the treatment provided.,positive
+148,Staff response was slow.,negative
+149,Doctor explained everything clearly.,positive
+150,Doctor explained everything clearly.,positive
+151,Staff response was slow.,negative
+152,Long waiting time and poor communication.,negative
+153,Long waiting time and poor communication.,negative
+154,No major complaints.,neutral
+155,Not happy with the hospital services.,negative
+156,Hospital stay was average.,neutral
+157,Very satisfied with the treatment provided.,positive
+158,Not happy with the hospital services.,negative
+159,Hospital stay was average.,neutral
+160,Very satisfied with the treatment provided.,positive
+161,Excellent care and very supportive staff.,positive
+162,Staff response was slow.,negative
+163,Hospital stay was average.,neutral
+164,No major complaints.,neutral
+165,Doctor explained everything clearly.,positive
+166,No major complaints.,neutral
+167,No major complaints.,neutral
+168,Very satisfied with the treatment provided.,positive
+169,Hospital stay was average.,neutral
+170,The service was acceptable.,neutral
+171,Hospital stay was average.,neutral
+172,No major complaints.,neutral
+173,Excellent care and very supportive staff.,positive
+174,Doctor explained everything clearly.,positive
+175,Hospital stay was average.,neutral
+176,No major complaints.,neutral
+177,Doctor explained everything clearly.,positive
+178,Staff response was slow.,negative
+179,The service was acceptable.,neutral
+180,Doctor explained everything clearly.,positive
+181,No major complaints.,neutral
+182,No major complaints.,neutral
+183,Staff response was slow.,negative
+184,Very satisfied with the treatment provided.,positive
+185,Excellent care and very supportive staff.,positive
+186,Very satisfied with the treatment provided.,positive
+187,Long waiting time and poor communication.,negative
+188,Excellent care and very supportive staff.,positive
+189,Doctor explained everything clearly.,positive
+190,Hospital stay was average.,neutral
+191,Hospital stay was average.,neutral
+192,The service was acceptable.,neutral
+193,Excellent care and very supportive staff.,positive
+194,Excellent care and very supportive staff.,positive
+195,Very satisfied with the treatment provided.,positive
+196,Doctor explained everything clearly.,positive
+197,Staff response was slow.,negative
+198,Excellent care and very supportive staff.,positive
+199,Not happy with the hospital services.,negative
+200,Long waiting time and poor communication.,negative
+201,Staff response was slow.,negative
+202,Long waiting time and poor communication.,negative
+203,Doctor explained everything clearly.,positive
+204,Not happy with the hospital services.,negative
+205,Doctor explained everything clearly.,positive
+206,Hospital stay was average.,neutral
+207,Doctor explained everything clearly.,positive
+208,Doctor explained everything clearly.,positive
+209,The service was acceptable.,neutral
+210,No major complaints.,neutral
+211,The service was acceptable.,neutral
+212,Hospital stay was average.,neutral
+213,Doctor explained everything clearly.,positive
+214,Very satisfied with the treatment provided.,positive
+215,The service was acceptable.,neutral
+216,Very satisfied with the treatment provided.,positive
+217,Doctor explained everything clearly.,positive
+218,The service was acceptable.,neutral
+219,Staff response was slow.,negative
+220,No major complaints.,neutral
+221,Excellent care and very supportive staff.,positive
+222,Very satisfied with the treatment provided.,positive
+223,Excellent care and very supportive staff.,positive
+224,Doctor explained everything clearly.,positive
+225,Staff response was slow.,negative
+226,The service was acceptable.,neutral
+227,Excellent care and very supportive staff.,positive
+228,Staff response was slow.,negative
+229,Staff response was slow.,negative
+230,Very satisfied with the treatment provided.,positive
+231,The service was acceptable.,neutral
+232,Staff response was slow.,negative
+233,No major complaints.,neutral
+234,Long waiting time and poor communication.,negative
+235,Hospital stay was average.,neutral
+236,Excellent care and very supportive staff.,positive
+237,No major complaints.,neutral
+238,Very satisfied with the treatment provided.,positive
+239,Not happy with the hospital services.,negative
+240,Staff response was slow.,negative
+241,Doctor explained everything clearly.,positive
+242,Not happy with the hospital services.,negative
+243,Long waiting time and poor communication.,negative
+244,Excellent care and very supportive staff.,positive
+245,Hospital stay was average.,neutral
+246,No major complaints.,neutral
+247,No major complaints.,neutral
+248,Doctor explained everything clearly.,positive
+249,Staff response was slow.,negative
+250,Very satisfied with the treatment provided.,positive
+251,Staff response was slow.,negative
+252,Very satisfied with the treatment provided.,positive
+253,Staff response was slow.,negative
+254,Excellent care and very supportive staff.,positive
+255,Doctor explained everything clearly.,positive
+256,Doctor explained everything clearly.,positive
+257,Excellent care and very supportive staff.,positive
+258,Doctor explained everything clearly.,positive
+259,Not happy with the hospital services.,negative
+260,No major complaints.,neutral
+261,The service was acceptable.,neutral
+262,Excellent care and very supportive staff.,positive
+263,Staff response was slow.,negative
+264,The service was acceptable.,neutral
+265,The service was acceptable.,neutral
+266,No major complaints.,neutral
+267,Not happy with the hospital services.,negative
+268,Long waiting time and poor communication.,negative
+269,Hospital stay was average.,neutral
+270,Not happy with the hospital services.,negative
+271,Staff response was slow.,negative
+272,Hospital stay was average.,neutral
+273,The service was acceptable.,neutral
+274,Long waiting time and poor communication.,negative
+275,No major complaints.,neutral
+276,Very satisfied with the treatment provided.,positive
+277,No major complaints.,neutral
+278,Not happy with the hospital services.,negative
+279,The service was acceptable.,neutral
+280,No major complaints.,neutral
+281,Doctor explained everything clearly.,positive
+282,Doctor explained everything clearly.,positive
+283,Doctor explained everything clearly.,positive
+284,Long waiting time and poor communication.,negative
+285,Excellent care and very supportive staff.,positive
+286,No major complaints.,neutral
+287,Not happy with the hospital services.,negative
+288,No major complaints.,neutral
+289,No major complaints.,neutral
+290,Doctor explained everything clearly.,positive
+291,The service was acceptable.,neutral
+292,Staff response was slow.,negative
+293,Long waiting time and poor communication.,negative
+294,Very satisfied with the treatment provided.,positive
+295,No major complaints.,neutral
+296,No major complaints.,neutral
+297,The service was acceptable.,neutral
+298,Excellent care and very supportive staff.,positive
+299,Long waiting time and poor communication.,negative
+300,Staff response was slow.,negative
+301,Very satisfied with the treatment provided.,positive
+302,Excellent care and very supportive staff.,positive
+303,Staff response was slow.,negative
+304,Doctor explained everything clearly.,positive
+305,Very satisfied with the treatment provided.,positive
+306,Very satisfied with the treatment provided.,positive
+307,Staff response was slow.,negative
+308,Staff response was slow.,negative
+309,The service was acceptable.,neutral
+310,Very satisfied with the treatment provided.,positive
+311,Doctor explained everything clearly.,positive
+312,Doctor explained everything clearly.,positive
+313,Hospital stay was average.,neutral
+314,Staff response was slow.,negative
+315,The service was acceptable.,neutral
+316,Doctor explained everything clearly.,positive
+317,Staff response was slow.,negative
+318,The service was acceptable.,neutral
+319,The service was acceptable.,neutral
+320,Very satisfied with the treatment provided.,positive
+321,The service was acceptable.,neutral
+322,Staff response was slow.,negative
+323,Not happy with the hospital services.,negative
+324,Hospital stay was average.,neutral
+325,Long waiting time and poor communication.,negative
+326,Long waiting time and poor communication.,negative
+327,The service was acceptable.,neutral
+328,Staff response was slow.,negative
+329,Hospital stay was average.,neutral
+330,The service was acceptable.,neutral
+331,Hospital stay was average.,neutral
+332,Staff response was slow.,negative
+333,Excellent care and very supportive staff.,positive
+334,Long waiting time and poor communication.,negative
+335,Doctor explained everything clearly.,positive
+336,No major complaints.,neutral
+337,Excellent care and very supportive staff.,positive
+338,Not happy with the hospital services.,negative
+339,The service was acceptable.,neutral
+340,Not happy with the hospital services.,negative
+341,No major complaints.,neutral
+342,Excellent care and very supportive staff.,positive
+343,Excellent care and very supportive staff.,positive
+344,Not happy with the hospital services.,negative
+345,Very satisfied with the treatment provided.,positive
+346,Not happy with the hospital services.,negative
+347,Doctor explained everything clearly.,positive
+348,Doctor explained everything clearly.,positive
+349,Hospital stay was average.,neutral
+350,The service was acceptable.,neutral
+351,No major complaints.,neutral
+352,The service was acceptable.,neutral
+353,Long waiting time and poor communication.,negative
+354,Staff response was slow.,negative
+355,Very satisfied with the treatment provided.,positive
+356,Doctor explained everything clearly.,positive
+357,Staff response was slow.,negative
+358,No major complaints.,neutral
+359,Staff response was slow.,negative
+360,Staff response was slow.,negative
+361,The service was acceptable.,neutral
+362,Doctor explained everything clearly.,positive
+363,Not happy with the hospital services.,negative
+364,No major complaints.,neutral
+365,Long waiting time and poor communication.,negative
+366,Doctor explained everything clearly.,positive
+367,The service was acceptable.,neutral
+368,Long waiting time and poor communication.,negative
+369,Excellent care and very supportive staff.,positive
+370,Staff response was slow.,negative
+371,Very satisfied with the treatment provided.,positive
+372,No major complaints.,neutral
+373,The service was acceptable.,neutral
+374,The service was acceptable.,neutral
+375,Hospital stay was average.,neutral
+376,Not happy with the hospital services.,negative
+377,Staff response was slow.,negative
+378,Not happy with the hospital services.,negative
+379,Excellent care and very supportive staff.,positive
+380,Excellent care and very supportive staff.,positive
+381,Doctor explained everything clearly.,positive
+382,Hospital stay was average.,neutral
+383,Doctor explained everything clearly.,positive
+384,Long waiting time and poor communication.,negative
+385,Long waiting time and poor communication.,negative
+386,Staff response was slow.,negative
+387,The service was acceptable.,neutral
+388,Excellent care and very supportive staff.,positive
+389,Very satisfied with the treatment provided.,positive
+390,Doctor explained everything clearly.,positive
+391,No major complaints.,neutral
+392,No major complaints.,neutral
+393,Doctor explained everything clearly.,positive
+394,Long waiting time and poor communication.,negative
+395,Staff response was slow.,negative
+396,Very satisfied with the treatment provided.,positive
+397,Hospital stay was average.,neutral
+398,Staff response was slow.,negative
+399,Very satisfied with the treatment provided.,positive
+400,Doctor explained everything clearly.,positive
+401,Hospital stay was average.,neutral
+402,Doctor explained everything clearly.,positive
+403,Long waiting time and poor communication.,negative
+404,Not happy with the hospital services.,negative
+405,Long waiting time and poor communication.,negative
+406,Hospital stay was average.,neutral
+407,Staff response was slow.,negative
+408,No major complaints.,neutral
+409,Long waiting time and poor communication.,negative
+410,The service was acceptable.,neutral
+411,The service was acceptable.,neutral
+412,Long waiting time and poor communication.,negative
+413,Hospital stay was average.,neutral
+414,Long waiting time and poor communication.,negative
+415,The service was acceptable.,neutral
+416,Very satisfied with the treatment provided.,positive
+417,Very satisfied with the treatment provided.,positive
+418,Not happy with the hospital services.,negative
+419,The service was acceptable.,neutral
+420,Very satisfied with the treatment provided.,positive
+421,Staff response was slow.,negative
+422,Long waiting time and poor communication.,negative
+423,Doctor explained everything clearly.,positive
+424,Long waiting time and poor communication.,negative
+425,Staff response was slow.,negative
+426,Staff response was slow.,negative
+427,Staff response was slow.,negative
+428,Not happy with the hospital services.,negative
+429,The service was acceptable.,neutral
+430,Not happy with the hospital services.,negative
+431,Very satisfied with the treatment provided.,positive
+432,Very satisfied with the treatment provided.,positive
+433,Long waiting time and poor communication.,negative
+434,Hospital stay was average.,neutral
+435,Hospital stay was average.,neutral
+436,Long waiting time and poor communication.,negative
+437,Excellent care and very supportive staff.,positive
+438,No major complaints.,neutral
+439,Doctor explained everything clearly.,positive
+440,No major complaints.,neutral
+441,No major complaints.,neutral
+442,Hospital stay was average.,neutral
+443,The service was acceptable.,neutral
+444,Doctor explained everything clearly.,positive
+445,Excellent care and very supportive staff.,positive
+446,Doctor explained everything clearly.,positive
+447,No major complaints.,neutral
+448,Staff response was slow.,negative
+449,Long waiting time and poor communication.,negative
+450,Not happy with the hospital services.,negative
+451,Long waiting time and poor communication.,negative
+452,Doctor explained everything clearly.,positive
+453,Hospital stay was average.,neutral
+454,Excellent care and very supportive staff.,positive
+455,Long waiting time and poor communication.,negative
+456,Long waiting time and poor communication.,negative
+457,Hospital stay was average.,neutral
+458,Excellent care and very supportive staff.,positive
+459,Staff response was slow.,negative
+460,Doctor explained everything clearly.,positive
+461,Excellent care and very supportive staff.,positive
+462,Excellent care and very supportive staff.,positive
+463,Very satisfied with the treatment provided.,positive
+464,Long waiting time and poor communication.,negative
+465,The service was acceptable.,neutral
+466,The service was acceptable.,neutral
+467,Not happy with the hospital services.,negative
+468,Hospital stay was average.,neutral
+469,Long waiting time and poor communication.,negative
+470,Staff response was slow.,negative
+471,Long waiting time and poor communication.,negative
+472,Hospital stay was average.,neutral
+473,Excellent care and very supportive staff.,positive
+474,No major complaints.,neutral
+475,No major complaints.,neutral
+476,Very satisfied with the treatment provided.,positive
+477,Staff response was slow.,negative
+478,Very satisfied with the treatment provided.,positive
+479,Long waiting time and poor communication.,negative
+480,Not happy with the hospital services.,negative
+481,Staff response was slow.,negative
+482,Long waiting time and poor communication.,negative
+483,No major complaints.,neutral
+484,The service was acceptable.,neutral
+485,No major complaints.,neutral
+486,Doctor explained everything clearly.,positive
+487,Hospital stay was average.,neutral
+488,The service was acceptable.,neutral
+489,Doctor explained everything clearly.,positive
+490,No major complaints.,neutral
+491,Long waiting time and poor communication.,negative
+492,Very satisfied with the treatment provided.,positive
+493,The service was acceptable.,neutral
+494,Excellent care and very supportive staff.,positive
+495,Excellent care and very supportive staff.,positive
+496,Doctor explained everything clearly.,positive
+497,Very satisfied with the treatment provided.,positive
+498,Very satisfied with the treatment provided.,positive
+499,Not happy with the hospital services.,negative
+500,Hospital stay was average.,neutral
+501,No major complaints.,neutral
+502,Not happy with the hospital services.,negative
+503,Hospital stay was average.,neutral
+504,Staff response was slow.,negative
+505,Staff response was slow.,negative
+506,Very satisfied with the treatment provided.,positive
+507,Not happy with the hospital services.,negative
+508,The service was acceptable.,neutral
+509,Not happy with the hospital services.,negative
+510,Hospital stay was average.,neutral
+511,Excellent care and very supportive staff.,positive
+512,Staff response was slow.,negative
+513,Excellent care and very supportive staff.,positive
+514,No major complaints.,neutral
+515,The service was acceptable.,neutral
+516,Staff response was slow.,negative
+517,No major complaints.,neutral
+518,The service was acceptable.,neutral
+519,Very satisfied with the treatment provided.,positive
+520,Staff response was slow.,negative
+521,Hospital stay was average.,neutral
+522,The service was acceptable.,neutral
+523,Staff response was slow.,negative
+524,Staff response was slow.,negative
+525,Hospital stay was average.,neutral
+526,Very satisfied with the treatment provided.,positive
+527,Very satisfied with the treatment provided.,positive
+528,Doctor explained everything clearly.,positive
+529,Very satisfied with the treatment provided.,positive
+530,Not happy with the hospital services.,negative
+531,Very satisfied with the treatment provided.,positive
+532,Excellent care and very supportive staff.,positive
+533,Staff response was slow.,negative
+534,No major complaints.,neutral
+535,Hospital stay was average.,neutral
+536,Long waiting time and poor communication.,negative
+537,Long waiting time and poor communication.,negative
+538,No major complaints.,neutral
+539,Long waiting time and poor communication.,negative
+540,The service was acceptable.,neutral
+541,Doctor explained everything clearly.,positive
+542,Doctor explained everything clearly.,positive
+543,Very satisfied with the treatment provided.,positive
+544,Not happy with the hospital services.,negative
+545,Staff response was slow.,negative
+546,Excellent care and very supportive staff.,positive
+547,Staff response was slow.,negative
+548,Excellent care and very supportive staff.,positive
+549,Very satisfied with the treatment provided.,positive
+550,The service was acceptable.,neutral
+551,Staff response was slow.,negative
+552,Excellent care and very supportive staff.,positive
+553,Doctor explained everything clearly.,positive
+554,Very satisfied with the treatment provided.,positive
+555,Long waiting time and poor communication.,negative
+556,Very satisfied with the treatment provided.,positive
+557,Staff response was slow.,negative
+558,Long waiting time and poor communication.,negative
+559,Staff response was slow.,negative
+560,Excellent care and very supportive staff.,positive
+561,Not happy with the hospital services.,negative
+562,No major complaints.,neutral
+563,No major complaints.,neutral
+564,Hospital stay was average.,neutral
+565,Long waiting time and poor communication.,negative
+566,Doctor explained everything clearly.,positive
+567,Doctor explained everything clearly.,positive
+568,Hospital stay was average.,neutral
+569,Staff response was slow.,negative
+570,Staff response was slow.,negative
+571,Doctor explained everything clearly.,positive
+572,Long waiting time and poor communication.,negative
+573,Doctor explained everything clearly.,positive
+574,Not happy with the hospital services.,negative
+575,No major complaints.,neutral
+576,Very satisfied with the treatment provided.,positive
+577,Excellent care and very supportive staff.,positive
+578,Staff response was slow.,negative
+579,Doctor explained everything clearly.,positive
+580,Very satisfied with the treatment provided.,positive
+581,Very satisfied with the treatment provided.,positive
+582,Hospital stay was average.,neutral
+583,Staff response was slow.,negative
+584,Long waiting time and poor communication.,negative
+585,The service was acceptable.,neutral
+586,The service was acceptable.,neutral
+587,Hospital stay was average.,neutral
+588,Long waiting time and poor communication.,negative
+589,Doctor explained everything clearly.,positive
+590,No major complaints.,neutral
+591,No major complaints.,neutral
+592,Hospital stay was average.,neutral
+593,Long waiting time and poor communication.,negative
+594,The service was acceptable.,neutral
+595,Very satisfied with the treatment provided.,positive
+596,Long waiting time and poor communication.,negative
+597,Long waiting time and poor communication.,negative
+598,Hospital stay was average.,neutral
+599,The service was acceptable.,neutral
+600,No major complaints.,neutral
+601,Not happy with the hospital services.,negative
+602,Staff response was slow.,negative
+603,Hospital stay was average.,neutral
+604,Very satisfied with the treatment provided.,positive
+605,Long waiting time and poor communication.,negative
+606,Hospital stay was average.,neutral
+607,Long waiting time and poor communication.,negative
+608,Doctor explained everything clearly.,positive
+609,No major complaints.,neutral
+610,Long waiting time and poor communication.,negative
+611,The service was acceptable.,neutral
+612,Hospital stay was average.,neutral
+613,Staff response was slow.,negative
+614,The service was acceptable.,neutral
+615,Staff response was slow.,negative
+616,Hospital stay was average.,neutral
+617,Staff response was slow.,negative
+618,Doctor explained everything clearly.,positive
+619,Very satisfied with the treatment provided.,positive
+620,Doctor explained everything clearly.,positive
+621,Doctor explained everything clearly.,positive
+622,Doctor explained everything clearly.,positive
+623,Long waiting time and poor communication.,negative
+624,Not happy with the hospital services.,negative
+625,Hospital stay was average.,neutral
+626,The service was acceptable.,neutral
+627,Not happy with the hospital services.,negative
+628,Very satisfied with the treatment provided.,positive
+629,Long waiting time and poor communication.,negative
+630,Very satisfied with the treatment provided.,positive
+631,The service was acceptable.,neutral
+632,The service was acceptable.,neutral
+633,Not happy with the hospital services.,negative
+634,The service was acceptable.,neutral
+635,Very satisfied with the treatment provided.,positive
+636,The service was acceptable.,neutral
+637,Long waiting time and poor communication.,negative
+638,Staff response was slow.,negative
+639,Staff response was slow.,negative
+640,Long waiting time and poor communication.,negative
+641,Doctor explained everything clearly.,positive
+642,Hospital stay was average.,neutral
+643,Hospital stay was average.,neutral
+644,No major complaints.,neutral
+645,Not happy with the hospital services.,negative
+646,Long waiting time and poor communication.,negative
+647,Staff response was slow.,negative
+648,Doctor explained everything clearly.,positive
+649,Very satisfied with the treatment provided.,positive
+650,Long waiting time and poor communication.,negative
+651,The service was acceptable.,neutral
+652,Not happy with the hospital services.,negative
+653,Excellent care and very supportive staff.,positive
+654,Excellent care and very supportive staff.,positive
+655,Long waiting time and poor communication.,negative
+656,Not happy with the hospital services.,negative
+657,Excellent care and very supportive staff.,positive
+658,Excellent care and very supportive staff.,positive
+659,No major complaints.,neutral
+660,Long waiting time and poor communication.,negative
+661,Excellent care and very supportive staff.,positive
+662,Excellent care and very supportive staff.,positive
+663,Not happy with the hospital services.,negative
+664,Very satisfied with the treatment provided.,positive
+665,The service was acceptable.,neutral
+666,Not happy with the hospital services.,negative
+667,No major complaints.,neutral
+668,Very satisfied with the treatment provided.,positive
+669,Very satisfied with the treatment provided.,positive
+670,Long waiting time and poor communication.,negative
+671,Not happy with the hospital services.,negative
+672,The service was acceptable.,neutral
+673,Excellent care and very supportive staff.,positive
+674,Long waiting time and poor communication.,negative
+675,Very satisfied with the treatment provided.,positive
+676,Doctor explained everything clearly.,positive
+677,The service was acceptable.,neutral
+678,Staff response was slow.,negative
+679,Staff response was slow.,negative
+680,Not happy with the hospital services.,negative
+681,Excellent care and very supportive staff.,positive
+682,Staff response was slow.,negative
+683,Long waiting time and poor communication.,negative
+684,The service was acceptable.,neutral
+685,Very satisfied with the treatment provided.,positive
+686,Doctor explained everything clearly.,positive
+687,No major complaints.,neutral
+688,Hospital stay was average.,neutral
+689,Very satisfied with the treatment provided.,positive
+690,The service was acceptable.,neutral
+691,Doctor explained everything clearly.,positive
+692,Hospital stay was average.,neutral
+693,Long waiting time and poor communication.,negative
+694,Hospital stay was average.,neutral
+695,Long waiting time and poor communication.,negative
+696,Staff response was slow.,negative
+697,No major complaints.,neutral
+698,Long waiting time and poor communication.,negative
+699,Very satisfied with the treatment provided.,positive
+700,Hospital stay was average.,neutral
+701,Very satisfied with the treatment provided.,positive
+702,Doctor explained everything clearly.,positive
+703,The service was acceptable.,neutral
+704,Doctor explained everything clearly.,positive
+705,Hospital stay was average.,neutral
+706,The service was acceptable.,neutral
+707,Excellent care and very supportive staff.,positive
+708,Staff response was slow.,negative
+709,The service was acceptable.,neutral
+710,Excellent care and very supportive staff.,positive
+711,The service was acceptable.,neutral
+712,Excellent care and very supportive staff.,positive
+713,Excellent care and very supportive staff.,positive
+714,Doctor explained everything clearly.,positive
+715,The service was acceptable.,neutral
+716,Doctor explained everything clearly.,positive
+717,Doctor explained everything clearly.,positive
+718,Staff response was slow.,negative
+719,Doctor explained everything clearly.,positive
+720,Staff response was slow.,negative
+721,The service was acceptable.,neutral
+722,Hospital stay was average.,neutral
+723,Hospital stay was average.,neutral
+724,Not happy with the hospital services.,negative
+725,Not happy with the hospital services.,negative
+726,Very satisfied with the treatment provided.,positive
+727,Hospital stay was average.,neutral
+728,Doctor explained everything clearly.,positive
+729,Very satisfied with the treatment provided.,positive
+730,The service was acceptable.,neutral
+731,Excellent care and very supportive staff.,positive
+732,The service was acceptable.,neutral
+733,Hospital stay was average.,neutral
+734,Not happy with the hospital services.,negative
+735,No major complaints.,neutral
+736,Doctor explained everything clearly.,positive
+737,Staff response was slow.,negative
+738,Long waiting time and poor communication.,negative
+739,No major complaints.,neutral
+740,Hospital stay was average.,neutral
+741,Excellent care and very supportive staff.,positive
+742,Staff response was slow.,negative
+743,Hospital stay was average.,neutral
+744,Doctor explained everything clearly.,positive
+745,Long waiting time and poor communication.,negative
+746,Hospital stay was average.,neutral
+747,No major complaints.,neutral
+748,Very satisfied with the treatment provided.,positive
+749,Staff response was slow.,negative
+750,The service was acceptable.,neutral
+751,Not happy with the hospital services.,negative
+752,Staff response was slow.,negative
+753,The service was acceptable.,neutral
+754,Very satisfied with the treatment provided.,positive
+755,Very satisfied with the treatment provided.,positive
+756,Staff response was slow.,negative
+757,Not happy with the hospital services.,negative
+758,Very satisfied with the treatment provided.,positive
+759,Excellent care and very supportive staff.,positive
+760,Not happy with the hospital services.,negative
+761,Long waiting time and poor communication.,negative
+762,No major complaints.,neutral
+763,Not happy with the hospital services.,negative
+764,Excellent care and very supportive staff.,positive
+765,Staff response was slow.,negative
+766,The service was acceptable.,neutral
+767,Excellent care and very supportive staff.,positive
+768,Hospital stay was average.,neutral
+769,Long waiting time and poor communication.,negative
+770,Very satisfied with the treatment provided.,positive
+771,Staff response was slow.,negative
+772,Not happy with the hospital services.,negative
+773,Doctor explained everything clearly.,positive
+774,Very satisfied with the treatment provided.,positive
+775,Hospital stay was average.,neutral
+776,The service was acceptable.,neutral
+777,Hospital stay was average.,neutral
+778,The service was acceptable.,neutral
+779,Doctor explained everything clearly.,positive
+780,Staff response was slow.,negative
+781,Staff response was slow.,negative
+782,Staff response was slow.,negative
+783,Very satisfied with the treatment provided.,positive
+784,Staff response was slow.,negative
+785,The service was acceptable.,neutral
+786,Very satisfied with the treatment provided.,positive
+787,Excellent care and very supportive staff.,positive
+788,No major complaints.,neutral
+789,Not happy with the hospital services.,negative
+790,Staff response was slow.,negative
+791,Long waiting time and poor communication.,negative
+792,Excellent care and very supportive staff.,positive
+793,Staff response was slow.,negative
+794,Very satisfied with the treatment provided.,positive
+795,The service was acceptable.,neutral
+796,Doctor explained everything clearly.,positive
+797,Staff response was slow.,negative
+798,Excellent care and very supportive staff.,positive
+799,Hospital stay was average.,neutral
+800,Long waiting time and poor communication.,negative
+801,Very satisfied with the treatment provided.,positive
+802,Doctor explained everything clearly.,positive
+803,The service was acceptable.,neutral
+804,The service was acceptable.,neutral
+805,Very satisfied with the treatment provided.,positive
+806,Not happy with the hospital services.,negative
+807,Staff response was slow.,negative
+808,Doctor explained everything clearly.,positive
+809,Doctor explained everything clearly.,positive
+810,Long waiting time and poor communication.,negative
+811,The service was acceptable.,neutral
+812,The service was acceptable.,neutral
+813,Excellent care and very supportive staff.,positive
+814,Long waiting time and poor communication.,negative
+815,The service was acceptable.,neutral
+816,Doctor explained everything clearly.,positive
+817,Hospital stay was average.,neutral
+818,Hospital stay was average.,neutral
+819,Long waiting time and poor communication.,negative
+820,Very satisfied with the treatment provided.,positive
+821,Very satisfied with the treatment provided.,positive
+822,Long waiting time and poor communication.,negative
+823,Staff response was slow.,negative
+824,Not happy with the hospital services.,negative
+825,Hospital stay was average.,neutral
+826,Not happy with the hospital services.,negative
+827,Doctor explained everything clearly.,positive
+828,No major complaints.,neutral
+829,Doctor explained everything clearly.,positive
+830,Not happy with the hospital services.,negative
+831,The service was acceptable.,neutral
+832,The service was acceptable.,neutral
+833,Doctor explained everything clearly.,positive
+834,Very satisfied with the treatment provided.,positive
+835,Hospital stay was average.,neutral
+836,Staff response was slow.,negative
+837,Not happy with the hospital services.,negative
+838,Doctor explained everything clearly.,positive
+839,Staff response was slow.,negative
+840,Long waiting time and poor communication.,negative
+841,Not happy with the hospital services.,negative
+842,Doctor explained everything clearly.,positive
+843,Very satisfied with the treatment provided.,positive
+844,Not happy with the hospital services.,negative
+845,Excellent care and very supportive staff.,positive
+846,The service was acceptable.,neutral
+847,Doctor explained everything clearly.,positive
+848,Staff response was slow.,negative
+849,Long waiting time and poor communication.,negative
+850,Long waiting time and poor communication.,negative
+851,Very satisfied with the treatment provided.,positive
+852,The service was acceptable.,neutral
+853,Hospital stay was average.,neutral
+854,Staff response was slow.,negative
+855,Hospital stay was average.,neutral
+856,No major complaints.,neutral
+857,Doctor explained everything clearly.,positive
+858,Long waiting time and poor communication.,negative
+859,No major complaints.,neutral
+860,Long waiting time and poor communication.,negative
+861,Not happy with the hospital services.,negative
+862,The service was acceptable.,neutral
+863,Staff response was slow.,negative
+864,No major complaints.,neutral
+865,Long waiting time and poor communication.,negative
+866,No major complaints.,neutral
+867,The service was acceptable.,neutral
+868,Hospital stay was average.,neutral
+869,Staff response was slow.,negative
+870,Excellent care and very supportive staff.,positive
+871,Very satisfied with the treatment provided.,positive
+872,Doctor explained everything clearly.,positive
+873,Not happy with the hospital services.,negative
+874,No major complaints.,neutral
+875,Not happy with the hospital services.,negative
+876,Excellent care and very supportive staff.,positive
+877,Very satisfied with the treatment provided.,positive
+878,Hospital stay was average.,neutral
+879,The service was acceptable.,neutral
+880,Not happy with the hospital services.,negative
+881,Long waiting time and poor communication.,negative
+882,Excellent care and very supportive staff.,positive
+883,Staff response was slow.,negative
+884,Hospital stay was average.,neutral
+885,Excellent care and very supportive staff.,positive
+886,Not happy with the hospital services.,negative
+887,Not happy with the hospital services.,negative
+888,Doctor explained everything clearly.,positive
+889,Very satisfied with the treatment provided.,positive
+890,Staff response was slow.,negative
+891,Very satisfied with the treatment provided.,positive
+892,Long waiting time and poor communication.,negative
+893,The service was acceptable.,neutral
+894,Very satisfied with the treatment provided.,positive
+895,Not happy with the hospital services.,negative
+896,No major complaints.,neutral
+897,Hospital stay was average.,neutral
+898,Hospital stay was average.,neutral
+899,Hospital stay was average.,neutral
+900,The service was acceptable.,neutral
+901,Staff response was slow.,negative
+902,The service was acceptable.,neutral
+903,Doctor explained everything clearly.,positive
+904,Excellent care and very supportive staff.,positive
+905,Doctor explained everything clearly.,positive
+906,Not happy with the hospital services.,negative
+907,Long waiting time and poor communication.,negative
+908,Excellent care and very supportive staff.,positive
+909,No major complaints.,neutral
+910,The service was acceptable.,neutral
+911,Doctor explained everything clearly.,positive
+912,Not happy with the hospital services.,negative
+913,Doctor explained everything clearly.,positive
+914,Doctor explained everything clearly.,positive
+915,Doctor explained everything clearly.,positive
+916,Not happy with the hospital services.,negative
+917,Excellent care and very supportive staff.,positive
+918,Long waiting time and poor communication.,negative
+919,Excellent care and very supportive staff.,positive
+920,Excellent care and very supportive staff.,positive
+921,Hospital stay was average.,neutral
+922,No major complaints.,neutral
+923,Excellent care and very supportive staff.,positive
+924,Not happy with the hospital services.,negative
+925,Hospital stay was average.,neutral
+926,Excellent care and very supportive staff.,positive
+927,Not happy with the hospital services.,negative
+928,No major complaints.,neutral
+929,Long waiting time and poor communication.,negative
+930,Hospital stay was average.,neutral
+931,Long waiting time and poor communication.,negative
+932,Hospital stay was average.,neutral
+933,Doctor explained everything clearly.,positive
+934,Long waiting time and poor communication.,negative
+935,Very satisfied with the treatment provided.,positive
+936,Long waiting time and poor communication.,negative
+937,Very satisfied with the treatment provided.,positive
+938,Excellent care and very supportive staff.,positive
+939,Long waiting time and poor communication.,negative
+940,Staff response was slow.,negative
+941,Very satisfied with the treatment provided.,positive
+942,Very satisfied with the treatment provided.,positive
+943,Doctor explained everything clearly.,positive
+944,Doctor explained everything clearly.,positive
+945,Excellent care and very supportive staff.,positive
+946,Excellent care and very supportive staff.,positive
+947,Staff response was slow.,negative
+948,Doctor explained everything clearly.,positive
+949,No major complaints.,neutral
+950,Excellent care and very supportive staff.,positive
+951,Doctor explained everything clearly.,positive
+952,The service was acceptable.,neutral
+953,Staff response was slow.,negative
+954,Very satisfied with the treatment provided.,positive
+955,Not happy with the hospital services.,negative
+956,Hospital stay was average.,neutral
+957,Excellent care and very supportive staff.,positive
+958,Very satisfied with the treatment provided.,positive
+959,No major complaints.,neutral
+960,Long waiting time and poor communication.,negative
+961,No major complaints.,neutral
+962,Long waiting time and poor communication.,negative
+963,No major complaints.,neutral
+964,Very satisfied with the treatment provided.,positive
+965,Very satisfied with the treatment provided.,positive
+966,No major complaints.,neutral
+967,Not happy with the hospital services.,negative
+968,Doctor explained everything clearly.,positive
+969,Very satisfied with the treatment provided.,positive
+970,Long waiting time and poor communication.,negative
+971,Doctor explained everything clearly.,positive
+972,Staff response was slow.,negative
+973,Not happy with the hospital services.,negative
+974,The service was acceptable.,neutral
+975,Long waiting time and poor communication.,negative
+976,No major complaints.,neutral
+977,Hospital stay was average.,neutral
+978,Staff response was slow.,negative
+979,Doctor explained everything clearly.,positive
+980,No major complaints.,neutral
+981,Hospital stay was average.,neutral
+982,Hospital stay was average.,neutral
+983,Excellent care and very supportive staff.,positive
+984,No major complaints.,neutral
+985,No major complaints.,neutral
+986,Staff response was slow.,negative
+987,Very satisfied with the treatment provided.,positive
+988,Hospital stay was average.,neutral
+989,Staff response was slow.,negative
+990,Very satisfied with the treatment provided.,positive
+991,Not happy with the hospital services.,negative
+992,Excellent care and very supportive staff.,positive
+993,Hospital stay was average.,neutral
+994,Not happy with the hospital services.,negative
+995,No major complaints.,neutral
+996,Not happy with the hospital services.,negative
+997,The service was acceptable.,neutral
+998,Not happy with the hospital services.,negative
+999,Excellent care and very supportive staff.,positive
+1000,The service was acceptable.,neutral

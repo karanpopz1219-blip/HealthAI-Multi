@@ -1,80 +1,77 @@
-# HealthAI-Multi
-HealthAI Suite is an AI-powered healthcare analytics system that analyzes patient data to predict disease risks, segment patients, and provide real-time medical assistance. It integrates machine learning models with a 24/7 healthcare chatbot to support early diagnosis, personalized care, and improved healthcare accessibility.
-# Core Components
+# HealthAI Dashboard & API
 
-# UI: health_care_bot.py (Streamlit)
-Presents dashboard, forms, visualizations, and interactive explainability demos.
-May initialize models at import-time (current repo has Streamlit code that loads models).
-# API: app.py (FastAPI)
-REST endpoints: /health, /predict/risk, /predict/los, /cluster.
-Consumes model objects (currently read from health_care_bot module or should be refactored to load from a shared healthai module).
-Model/ML utilities: healthai/*
-persistence.py (save/load helpers), explainability.py (SHAP/LIME examples), model setup functions and feature transformers.
-Data and artifacts
-CSVs in repo root (synthetic/patient datasets) for demos and training.
-saved_models for persisted models and transformers.
-Devops / Containerization
-Dockerfile and docker-compose.yml (services: streamlit UI, uvicorn FastAPI backend).
-Tests
-test_api.py (pytest-driven sanity tests using TestClient).
-# Runtime Data Flow
+This repository contains:
 
-User → Browser → Streamlit UI:
-UI either calls local model functions directly or calls backend endpoints (depending on flow).
-Streamlit → Backend (optional):
-If UI offloads compute, it posts JSON payloads to FastAPI endpoints.
-Backend → Models:
-Backend uses loaded model artifacts (transformers, encoders, scalers, selectors, model files) to prepare features and return predictions.
-Model artifact storage:
-Models stored under saved_models and loaded at startup (or lazily upon first request).
-Explainability:
-Compute SHAP/LIME explanations locally and return plots or numeric explanations to the UI.
-# Deployment Options
+- `health_care_bot.py` — Streamlit dashboard integrating multiple modules (analytics, association rules, LSTM, BERT, generative models, chatbot/translator).
+- `healthai/` — helper utilities (persistence helpers).
+- `backend/app.py` — FastAPI backend exposing prediction endpoints that use the models initialized by the Streamlit app.
+- `backend/test_api.py` — simple pytest tests for the API.
+- `requirements.txt` — Python dependencies (pinned).
+- `saved_models/` — directory where trained models will be persisted.
 
-Local dev: streamlit run health_care_bot.py and uvicorn backend.app:app --reload (or via docker-compose up).
-Containerized: Docker-compose runs:
-web service: Streamlit (port forwards to host).
-api service: Uvicorn/Gunicorn + FastAPI for production.
-# Scalable production:
-Serve models via dedicated model server(s): TorchServe / TF Serving / ONNX Runtime.
-Use a stateless API layer (FastAPI) behind a load balancer with autoscaling.
-Move model artifacts to object storage (S3/GCS) and load via startup hooks or a model registry.
-Background/async work:
-For heavy or long-running tasks (training, large explainability computations), use a queue (Redis + RQ/Celery) and worker pool.
-# Architecture Recommendations / Improvements
+Getting started
 
-Decouple model loading from Streamlit:
-Move model initialization to healthai/models.py or to the backend so web UI and API both use the same source of truth.
-Use a single source for transformers/encoders:
-Persist scaler, selector, LabelEncoder objects in saved_models and load them explicitly.
-Make model loading lazy:
-Initialize expensive models on first use to reduce startup time and avoid import-time warnings.
-Add health-checks and readiness probes:
-/health already exists; expand to readiness that asserts models loaded.
-Stronger dependency management:
-Keep heavy, optional deps commented in requirements.txt and provide a requirements-full.txt for full installs (or provide a conda environment.yml).
-# Security, Compliance & Privacy
+1. Create a virtual environment (recommended):
 
-Sensitive data:
-Never log PHI; redact datasets in logs.
-Ensure local demo datasets are synthetic (they are in repo now).
-Secrets:
-Use environment variables or secret manager for keys (do not hardcode).
-Access control:
-Add authentication (JWT, OAuth2) to FastAPI in production.
-Audit & Compliance:
-Log requests/decisions (with non-PHI metadata) for traceability.
-# Operational Concerns
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 
-Observability:
-Add structured logging, metrics (Prometheus), and traces (OpenTelemetry).
-Monitoring:
-Monitor model drift, latency, and error rates.
-CI/CD:
-Build/test Docker images in pipeline. Run unit tests (pytest), linting, and basic integration tests.
-Reproducibility:
-Save model metadata (training dataset, random seeds, package versions) alongside artifacts.
-Tradeoffs & Notes
+2. Run the Streamlit dashboard:
 
-Current approach mixes UI + model-loading (convenient for demos, but harder to scale). Decoupling improves scalability and testability.
-Installing heavy ML deps on macOS can fail; prefer conda for TF or use pre-built Docker images for reproducible deployments.
+```bash
+streamlit run health_care_bot.py
+```
+
+3. Run the FastAPI backend (recommended to run separately):
+
+```bash
+uvicorn backend.app:app --reload --port 8000
+```
+
+4. Run API tests:
+
+```bash
+pytest backend/test_api.py -q
+```
+
+Model persistence
+
+You can save models from the running Streamlit module using `healthai.persistence.save_all_models_from_streamlit_module(health_care_bot)`.
+
+Notes
+
+- Some features require optional heavy ML packages (PyTorch, Transformers, TensorFlow). The app detects missing packages and shows warnings. To suppress the in-app yellow warning banners set `HEALTHAI_SUPPRESS_WARNINGS=1` in your environment.
+- If you experience TensorFlow crashes on macOS, consider using a Conda environment with a compatible TensorFlow build.
+
+Docker / Containerization
+------------------------
+
+You can run the app in Docker for an isolated environment. Build and run with:
+
+```bash
+docker build -t healthai-app .
+docker run -p 8501:8501 healthai-app
+```
+
+Or use docker-compose to run the Streamlit UI and FastAPI backend:
+
+```bash
+docker-compose up --build
+```
+
+Model interpretability (SHAP & LIME)
+-----------------------------------
+
+An example explainability script is available at `healthai/explainability.py`. It demonstrates using SHAP and LIME on a toy RandomForest trained on synthetic data. SHAP and LIME are optional; install them with `pip install shap lime` and run:
+
+```bash
+python3 healthai/explainability.py
+```
+
+Ethical AI in healthcare
+------------------------
+
+See `docs/ethical_ai.md` for a short checklist and guidance when developing models for healthcare. Follow those steps before releasing models for clinical use.
